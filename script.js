@@ -217,4 +217,19 @@ document.addEventListener('DOMContentLoaded', function() {
             startAutoSlide();
         });
     }
+
+    // Бургер-меню для мобильной версии
+    const nav = document.querySelector('nav');
+    const menuToggle = document.querySelector('.menu-toggle');
+    if (menuToggle) {
+        menuToggle.addEventListener('click', function() {
+            nav.classList.toggle('open');
+        });
+        // При клике вне меню — закрывать
+        document.addEventListener('click', function(e) {
+            if (!nav.contains(e.target) && nav.classList.contains('open')) {
+                nav.classList.remove('open');
+            }
+        });
+    }
 }); 
