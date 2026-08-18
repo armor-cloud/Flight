@@ -1,0 +1,225 @@
+﻿raid,boss,class_id,spec_id,spec,n,median_dps,mean_dps,min_dps,max_dps
+SSC,Hydross,9,0,Affliction Warlock,8,44980.5,44278.38,40810,46266
+SSC,Hydross,8,0,Arcane Mage,61,43974,44744.52,26562,68942
+SSC,Hydross,4,1,Combat Rogue,12,36698.5,36878.0,24445,45714
+SSC,Hydross,9,2,Destruction Warlock,7,34489,32560.86,22485,39126
+SSC,Hydross,7,0,Elemental Shaman,30,34106.0,34291.97,21476,44317
+SSC,Hydross,6,0,Blood DK,23,33913,33089.65,21326,48668
+SSC,Hydross,8,1,Fire Mage,28,33737.5,33318.93,21169,47686
+SSC,Hydross,6,1,Frost DK,10,33549.5,32384.6,21900,38357
+SSC,Hydross,3,2,Survival Hunter,26,33194.0,32426.5,22877,46783
+SSC,Hydross,11,0,Balance Druid,73,33095,31889.73,20874,41450
+SSC,Hydross,5,2,Shadow Priest,50,32662.5,32319.26,20898,42422
+SSC,Hydross,3,1,Marksmanship Hunter,35,31862,33017.89,24768,47437
+SSC,Hydross,9,1,Demonology Warlock,56,31824.0,31409.32,20823,42615
+SSC,Hydross,2,2,Retribution Paladin,70,31481.0,30934.37,20695,41241
+SSC,Hydross,8,2,Frost Mage,4,31061.5,30234.0,26308,32505
+SSC,Hydross,7,1,Enhancement Shaman,31,30874,31608.94,21503,42782
+SSC,Hydross,1,0,Arms Warrior,14,30554.5,30575.29,21680,37453
+SSC,Hydross,4,0,Assassination Rogue,8,30128.5,30355.5,28168,32296
+SSC,Hydross,3,0,Beast Mastery Hunter,23,29975,30765.65,21156,44827
+SSC,Hydross,6,2,Unholy DK,9,29789,31090.33,21294,38178
+SSC,Hydross,1,1,Fury Warrior,9,28862,27753.44,22637,30862
+SSC,Hydross,11,1,Feral Druid,21,28491,30014.05,24551,39959
+SSC,Hydross,4,2,Subtlety Rogue,11,27717,28713.91,22649,38550
+SSC,Karathress,9,0,Affliction Warlock,9,45146,44191.0,33508,53695
+SSC,Karathress,8,0,Arcane Mage,48,36780.5,37573.5,20834,58198
+SSC,Karathress,3,0,Beast Mastery Hunter,14,35825.0,34749.86,22450,48504
+SSC,Karathress,9,2,Destruction Warlock,6,35255.0,34980.33,27902,45697
+SSC,Karathress,3,1,Marksmanship Hunter,23,33890,35955.7,27126,53651
+SSC,Karathress,4,1,Combat Rogue,9,33828,34929.89,19909,46844
+SSC,Karathress,11,0,Balance Druid,60,32710.5,34956.7,19863,64891
+SSC,Karathress,3,2,Survival Hunter,19,32693,35185.11,21308,51970
+SSC,Karathress,1,0,Arms Warrior,3,32574,32319.67,28685,35700
+SSC,Karathress,5,2,Shadow Priest,49,31786,32666.53,21420,48088
+SSC,Karathress,9,1,Demonology Warlock,50,31361.5,32025.22,20606,44807
+SSC,Karathress,7,0,Elemental Shaman,29,30816,32322.72,20924,52635
+SSC,Karathress,8,1,Fire Mage,21,30422,31970.48,20374,44475
+SSC,Karathress,6,0,Blood DK,14,29768.5,29447.71,19986,40981
+SSC,Karathress,4,0,Assassination Rogue,4,29012.5,28452.25,19923,35861
+SSC,Karathress,6,1,Frost DK,9,28790,31147.78,24245,40664
+SSC,Karathress,2,2,Retribution Paladin,28,26579.5,27502.43,19768,42341
+SSC,Karathress,7,1,Enhancement Shaman,22,26283.5,28059.09,20140,41539
+SSC,Karathress,6,2,Unholy DK,5,25946,28955.0,21757,37342
+SSC,Karathress,11,1,Feral Druid,9,25657,27757.56,20387,38012
+SSC,Karathress,1,1,Fury Warrior,6,24526.5,25575.0,19616,35330
+SSC,Karathress,4,2,Subtlety Rogue,1,19769,19769.0,19769,19769
+SSC,Lady Vashj,9,0,Affliction Warlock,10,46848.0,43623.4,26728,54284
+SSC,Lady Vashj,4,1,Combat Rogue,11,46098,45547.55,28664,58456
+SSC,Lady Vashj,6,1,Frost DK,9,42514,38835.89,23473,46172
+SSC,Lady Vashj,6,0,Blood DK,13,41887,41796.92,22977,57565
+SSC,Lady Vashj,4,2,Subtlety Rogue,5,41669,38621.4,25096,43068
+SSC,Lady Vashj,4,0,Assassination Rogue,4,40924.0,39989.5,34137,43973
+SSC,Lady Vashj,8,0,Arcane Mage,38,40705.5,43367.76,24717,64331
+SSC,Lady Vashj,8,1,Fire Mage,15,38671,36364.33,19917,47254
+SSC,Lady Vashj,6,2,Unholy DK,2,38241.0,38241.0,30013,46469
+SSC,Lady Vashj,7,1,Enhancement Shaman,19,37939,39573.95,30960,51701
+SSC,Lady Vashj,1,1,Fury Warrior,4,37793.0,38246.75,35358,42043
+SSC,Lady Vashj,2,2,Retribution Paladin,25,37757,37858.72,24916,52654
+SSC,Lady Vashj,11,1,Feral Druid,13,37337,36230.23,19567,53118
+SSC,Lady Vashj,1,0,Arms Warrior,6,36448.5,35642.17,25448,44106
+SSC,Lady Vashj,9,1,Demonology Warlock,31,34012,33320.32,22290,45690
+SSC,Lady Vashj,7,0,Elemental Shaman,22,33206.5,33769.91,24005,47311
+SSC,Lady Vashj,11,0,Balance Druid,37,32510,33592.22,21277,54181
+SSC,Lady Vashj,5,2,Shadow Priest,30,32478.5,32246.3,22117,41306
+SSC,Lady Vashj,9,2,Destruction Warlock,9,30720,30730.0,26746,34366
+SSC,Lady Vashj,3,1,Marksmanship Hunter,5,25662,29972.6,24512,48455
+SSC,Lady Vashj,3,2,Survival Hunter,4,25344.5,24656.0,21542,26393
+SSC,Lady Vashj,3,0,Beast Mastery Hunter,23,25209,25498.3,19553,37725
+SSC,Leotheras,9,0,Affliction Warlock,9,51532,51476.67,47432,55863
+SSC,Leotheras,4,1,Combat Rogue,10,48882.5,47468.6,35107,56205
+SSC,Leotheras,8,0,Arcane Mage,53,46102,48422.36,24136,74751
+SSC,Leotheras,3,2,Survival Hunter,19,45146,44090.95,28324,49889
+SSC,Leotheras,3,1,Marksmanship Hunter,28,44641.5,45360.11,24599,61348
+SSC,Leotheras,5,2,Shadow Priest,54,44179.0,41766.02,24675,53495
+SSC,Leotheras,8,1,Fire Mage,23,43209,44305.0,33733,54377
+SSC,Leotheras,11,1,Feral Druid,14,42681.5,41700.36,31866,50163
+SSC,Leotheras,6,1,Frost DK,8,42439.0,40817.75,29291,45154
+SSC,Leotheras,7,0,Elemental Shaman,32,41592.5,42938.94,29980,56130
+SSC,Leotheras,3,0,Beast Mastery Hunter,13,41421,42606.0,36217,53205
+SSC,Leotheras,4,0,Assassination Rogue,8,41273.5,39781.25,26518,51526
+SSC,Leotheras,9,1,Demonology Warlock,49,41232,40125.1,29967,48699
+SSC,Leotheras,9,2,Destruction Warlock,5,40922,42338.4,33075,50557
+SSC,Leotheras,6,2,Unholy DK,9,40860,39486.0,28295,47098
+SSC,Leotheras,11,0,Balance Druid,69,40852,41209.55,28237,57217
+SSC,Leotheras,2,2,Retribution Paladin,49,39587,39288.02,22522,52344
+SSC,Leotheras,7,1,Enhancement Shaman,31,39377,39696.39,25961,50739
+SSC,Leotheras,1,1,Fury Warrior,6,39166.0,38660.17,30647,45942
+SSC,Leotheras,1,0,Arms Warrior,8,38022.0,38342.25,32603,43644
+SSC,Leotheras,6,0,Blood DK,18,36983.0,37570.33,22922,55613
+SSC,Leotheras,4,2,Subtlety Rogue,8,35077.0,35709.0,27193,42945
+SSC,Morogrim,9,0,Affliction Warlock,10,53967.0,53837.7,48228,58138
+SSC,Morogrim,8,0,Arcane Mage,51,53495,54354.0,25211,74538
+SSC,Morogrim,4,1,Combat Rogue,11,51445,50589.18,34810,63348
+SSC,Morogrim,1,1,Fury Warrior,7,50748,50531.14,37195,59391
+SSC,Morogrim,9,1,Demonology Warlock,56,48126.5,49504.98,33274,70668
+SSC,Morogrim,11,0,Balance Druid,68,47982.5,47301.15,23835,64657
+SSC,Morogrim,11,1,Feral Druid,20,47220.5,48286.5,33344,65775
+SSC,Morogrim,3,0,Beast Mastery Hunter,19,47086,46430.05,33498,62020
+SSC,Morogrim,7,0,Elemental Shaman,31,46957,48694.32,30791,69282
+SSC,Morogrim,3,1,Marksmanship Hunter,31,46591,47346.94,30574,63427
+SSC,Morogrim,6,2,Unholy DK,9,46263,46047.44,39696,51641
+SSC,Morogrim,7,1,Enhancement Shaman,25,45956,45863.08,30591,65010
+SSC,Morogrim,1,0,Arms Warrior,11,45783,45943.09,25619,65912
+SSC,Morogrim,5,2,Shadow Priest,52,44742.5,43789.44,28455,56075
+SSC,Morogrim,3,2,Survival Hunter,24,44551.5,44646.71,30411,60934
+SSC,Morogrim,8,1,Fire Mage,25,43220,43447.28,29615,59468
+SSC,Morogrim,6,0,Blood DK,23,42006,45298.48,31647,64370
+SSC,Morogrim,4,0,Assassination Rogue,8,41636.0,42209.88,27671,57604
+SSC,Morogrim,8,2,Frost Mage,4,40554.5,38891.0,31853,42602
+SSC,Morogrim,2,2,Retribution Paladin,54,40164.0,40820.83,25099,62002
+SSC,Morogrim,9,2,Destruction Warlock,5,38265,41588.8,29959,51717
+SSC,Morogrim,6,1,Frost DK,12,38077.5,37411.42,25200,48150
+SSC,Morogrim,4,2,Subtlety Rogue,5,33205,35746.8,28544,51935
+SSC,The Lurker Below,9,0,Affliction Warlock,8,51354.0,50952.75,44926,57412
+SSC,The Lurker Below,8,0,Arcane Mage,59,50254,50362.08,25413,83077
+SSC,The Lurker Below,1,0,Arms Warrior,4,47487.0,45471.0,36925,49985
+SSC,The Lurker Below,9,2,Destruction Warlock,4,44548.5,45858.25,40672,53664
+SSC,The Lurker Below,7,1,Enhancement Shaman,8,44318.5,40788.62,29247,49120
+SSC,The Lurker Below,5,2,Shadow Priest,46,43079.0,40613.98,26372,51868
+SSC,The Lurker Below,7,0,Elemental Shaman,38,42957.5,43170.71,25130,59441
+SSC,The Lurker Below,8,1,Fire Mage,34,42868.0,42671.85,29204,55764
+SSC,The Lurker Below,3,2,Survival Hunter,20,42785.0,42093.45,32658,49147
+SSC,The Lurker Below,11,0,Balance Druid,76,42738.0,42760.21,27155,58768
+SSC,The Lurker Below,9,1,Demonology Warlock,56,42636.0,41745.11,26555,52636
+SSC,The Lurker Below,6,1,Frost DK,3,40510,39336.0,36742,40756
+SSC,The Lurker Below,6,0,Blood DK,3,39951,38499.67,34241,41307
+SSC,The Lurker Below,8,2,Frost Mage,5,38435,37506.4,31085,43094
+SSC,The Lurker Below,3,1,Marksmanship Hunter,36,38024.5,41376.53,28163,55879
+SSC,The Lurker Below,2,2,Retribution Paladin,18,36748.0,37848.89,27308,49952
+SSC,The Lurker Below,3,0,Beast Mastery Hunter,22,36724.5,38062.77,27488,55200
+SSC,The Lurker Below,6,2,Unholy DK,7,35445,38038.0,30592,48109
+SSC,The Lurker Below,1,1,Fury Warrior,2,35042.5,35042.5,33675,36410
+SSC,The Lurker Below,11,1,Feral Druid,13,34922,37201.85,27730,53114
+TK,Al'ar,9,1,Demonology Warlock,51,38178,37486.33,21542,51925
+TK,Al'ar,11,0,Balance Druid,67,37498,38540.87,23535,63474
+TK,Al'ar,3,2,Survival Hunter,20,36344.5,36454.8,25009,44522
+TK,Al'ar,9,0,Affliction Warlock,10,36260.0,36131.9,30999,42202
+TK,Al'ar,8,0,Arcane Mage,29,35756,35736.34,20669,47529
+TK,Al'ar,5,2,Shadow Priest,48,35623.5,34614.98,20541,45012
+TK,Al'ar,3,0,Beast Mastery Hunter,19,34119,33763.32,23025,47106
+TK,Al'ar,3,1,Marksmanship Hunter,35,33748,34521.54,19081,49522
+TK,Al'ar,4,1,Combat Rogue,13,32585,31941.31,20441,37911
+TK,Al'ar,1,1,Fury Warrior,5,31963,29302.0,19181,32882
+TK,Al'ar,7,0,Elemental Shaman,34,31871.0,34008.41,20052,59108
+TK,Al'ar,11,1,Feral Druid,16,31807.0,31954.81,23321,56336
+TK,Al'ar,2,2,Retribution Paladin,56,31404.0,32138.21,20669,49562
+TK,Al'ar,1,0,Arms Warrior,13,29660,29155.85,19402,37840
+TK,Al'ar,9,2,Destruction Warlock,6,29637.0,30067.0,23863,35329
+TK,Al'ar,6,2,Unholy DK,11,29220,30118.55,20815,38358
+TK,Al'ar,6,0,Blood DK,26,29190.5,30907.0,20928,44945
+TK,Al'ar,7,1,Enhancement Shaman,25,28713,29069.32,19208,37861
+TK,Al'ar,8,1,Fire Mage,14,26442.0,28264.29,19268,40046
+TK,Al'ar,6,1,Frost DK,8,25808.0,26566.62,21588,33863
+TK,Al'ar,4,0,Assassination Rogue,10,23335.0,23609.1,19706,32057
+TK,Al'ar,8,2,Frost Mage,10,23249.5,24860.9,20683,40892
+TK,Al'ar,4,2,Subtlety Rogue,5,23117,23986.0,20029,27733
+TK,Kael'thas,9,0,Affliction Warlock,7,35751,35880.14,32279,39727
+TK,Kael'thas,8,0,Arcane Mage,55,34310,35108.36,21585,49096
+TK,Kael'thas,3,1,Marksmanship Hunter,23,31988,32588.65,16883,41501
+TK,Kael'thas,8,1,Fire Mage,17,31382,31719.18,26184,37829
+TK,Kael'thas,3,2,Survival Hunter,16,31304.0,30572.81,24444,35791
+TK,Kael'thas,9,1,Demonology Warlock,43,31090,30751.79,22793,39044
+TK,Kael'thas,11,0,Balance Druid,57,30340,29915.84,17269,38943
+TK,Kael'thas,5,2,Shadow Priest,37,30310,29044.41,16170,36575
+TK,Kael'thas,7,0,Elemental Shaman,33,30138,30283.24,17530,38605
+TK,Kael'thas,8,2,Frost Mage,1,30123,30123.0,30123,30123
+TK,Kael'thas,3,0,Beast Mastery Hunter,14,29566.0,29949.14,23572,38275
+TK,Kael'thas,9,2,Destruction Warlock,3,28295,28052.0,26743,29118
+TK,Kael'thas,4,1,Combat Rogue,11,27965,26912.09,18920,32671
+TK,Kael'thas,1,0,Arms Warrior,9,25488,23766.56,15230,27676
+TK,Kael'thas,1,1,Fury Warrior,5,25310,26199.0,23695,30564
+TK,Kael'thas,2,2,Retribution Paladin,31,22899,23202.06,16260,28661
+TK,Kael'thas,6,0,Blood DK,19,22895,23339.26,17354,35553
+TK,Kael'thas,6,1,Frost DK,6,22259.5,21758.67,16844,24094
+TK,Kael'thas,11,1,Feral Druid,11,22134,21756.91,15178,25323
+TK,Kael'thas,6,2,Unholy DK,4,21934.5,22605.0,20646,25905
+TK,Kael'thas,4,2,Subtlety Rogue,4,20925.0,20857.25,19262,22317
+TK,Kael'thas,7,1,Enhancement Shaman,23,20566,21430.52,16383,28203
+TK,Kael'thas,4,0,Assassination Rogue,7,17509,17621.43,15006,19292
+TK,Solarian,9,0,Affliction Warlock,8,44612.5,44159.25,39151,48508
+TK,Solarian,8,0,Arcane Mage,62,43823.0,45979.15,30356,65964
+TK,Solarian,4,1,Combat Rogue,11,41650,40368.36,27443,50645
+TK,Solarian,8,2,Frost Mage,1,41162,41162.0,41162,41162
+TK,Solarian,5,2,Shadow Priest,41,40252,37388.8,20120,47501
+TK,Solarian,8,1,Fire Mage,21,39435,39291.24,28031,47536
+TK,Solarian,3,1,Marksmanship Hunter,28,39196.0,39003.5,26437,54474
+TK,Solarian,3,0,Beast Mastery Hunter,14,38436.0,37521.5,25213,46022
+TK,Solarian,9,1,Demonology Warlock,51,38158,37157.84,19930,47839
+TK,Solarian,1,1,Fury Warrior,5,37982,37555.4,30847,46674
+TK,Solarian,11,0,Balance Druid,65,37817,37793.89,22648,51533
+TK,Solarian,7,0,Elemental Shaman,35,37724,37603.31,22551,51967
+TK,Solarian,3,2,Survival Hunter,17,37701,37280.06,26514,42467
+TK,Solarian,9,2,Destruction Warlock,4,35858.5,35612.75,33273,37461
+TK,Solarian,1,0,Arms Warrior,12,35801.0,34045.67,21132,42086
+TK,Solarian,11,1,Feral Druid,13,35328,33960.77,21569,41714
+TK,Solarian,2,2,Retribution Paladin,46,35040.5,34820.5,23170,43983
+TK,Solarian,6,0,Blood DK,25,34662,36011.4,25346,50013
+TK,Solarian,7,1,Enhancement Shaman,29,34585,34072.45,25349,43225
+TK,Solarian,4,0,Assassination Rogue,9,33674,32714.67,21609,39327
+TK,Solarian,6,1,Frost DK,10,32548.0,31659.5,20685,39153
+TK,Solarian,4,2,Subtlety Rogue,7,30957,30492.43,23761,37914
+TK,Solarian,6,2,Unholy DK,8,30384.0,31754.62,27222,39159
+TK,Void Reaver,9,0,Affliction Warlock,9,51563,49628.0,37126,55245
+TK,Void Reaver,8,0,Arcane Mage,60,44982.0,45349.65,22458,68558
+TK,Void Reaver,8,2,Frost Mage,4,44400.0,44262.75,40942,47309
+TK,Void Reaver,4,1,Combat Rogue,12,42172.0,41438.5,26692,51274
+TK,Void Reaver,5,2,Shadow Priest,60,41799.0,39276.88,21087,52144
+TK,Void Reaver,3,2,Survival Hunter,24,40599.0,38745.67,27478,47310
+TK,Void Reaver,7,0,Elemental Shaman,39,40312,40080.0,21504,52241
+TK,Void Reaver,8,1,Fire Mage,34,40005.0,39986.47,21015,52862
+TK,Void Reaver,4,0,Assassination Rogue,8,39604.5,40181.25,36461,45585
+TK,Void Reaver,9,1,Demonology Warlock,56,39561.0,38889.73,25197,50352
+TK,Void Reaver,3,1,Marksmanship Hunter,39,39300,42936.62,23904,60085
+TK,Void Reaver,1,1,Fury Warrior,8,39156.5,36921.62,21712,45683
+TK,Void Reaver,6,1,Frost DK,13,39087,36688.0,20859,44818
+TK,Void Reaver,11,0,Balance Druid,82,38998.5,39354.66,22277,55894
+TK,Void Reaver,6,2,Unholy DK,13,38056,36897.46,24086,50294
+TK,Void Reaver,2,2,Retribution Paladin,70,37879.5,38190.07,22027,51559
+TK,Void Reaver,11,1,Feral Druid,20,37037.0,37122.9,24819,49888
+TK,Void Reaver,3,0,Beast Mastery Hunter,23,37000,36942.74,22906,52275
+TK,Void Reaver,6,0,Blood DK,28,36606.0,37784.89,25767,54212
+TK,Void Reaver,7,1,Enhancement Shaman,34,36570.5,36994.47,23623,48961
+TK,Void Reaver,9,2,Destruction Warlock,10,35318.5,34690.0,21915,43225
+TK,Void Reaver,1,0,Arms Warrior,18,35009.5,35657.06,21194,45657
+TK,Void Reaver,4,2,Subtlety Rogue,8,34629.0,35947.25,31815,44492

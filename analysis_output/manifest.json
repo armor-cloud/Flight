@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-08-18T22:14:28.568626Z",
+  "week_from": "2026-07-23",
+  "week_to": "2026-08-18",
+  "aggregation": "avg",
+  "ilvl_filter": null,
+  "bosses": [
+    {
+      "raid": "TK",
+      "boss": "Al'ar",
+      "rows": 531,
+      "pages": 11
+    },
+    {
+      "raid": "TK",
+      "boss": "Void Reaver",
+      "rows": 672,
+      "pages": 14
+    },
+    {
+      "raid": "TK",
+      "boss": "Solarian",
+      "rows": 522,
+      "pages": 11
+    },
+    {
+      "raid": "TK",
+      "boss": "Kael'thas",
+      "rows": 436,
+      "pages": 9
+    },
+    {
+      "raid": "SSC",
+      "boss": "Hydross",
+      "rows": 619,
+      "pages": 13
+    },
+    {
+      "raid": "SSC",
+      "boss": "The Lurker Below",
+      "rows": 462,
+      "pages": 10
+    },
+    {
+      "raid": "SSC",
+      "boss": "Leotheras",
+      "rows": 523,
+      "pages": 11
+    },
+    {
+      "raid": "SSC",
+      "boss": "Karathress",
+      "rows": 438,
+      "pages": 9
+    },
+    {
+      "raid": "SSC",
+      "boss": "Morogrim",
+      "rows": 561,
+      "pages": 12
+    },
+    {
+      "raid": "SSC",
+      "boss": "Lady Vashj",
+      "rows": 335,
+      "pages": 7
+    }
+  ]
+}

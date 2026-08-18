@@ -1,0 +1,12 @@
+{
+  "week_from": "2026-07-23",
+  "week_to": "2026-08-18",
+  "aggregation": "avg",
+  "ilvl_filter": null,
+  "bosses": 10,
+  "request_count": 117,
+  "fight_entry_count": 0,
+  "fight_ids_found": 0,
+  "fight_detail_success": 0,
+  "note": "Raw JSON is preserved verbatim. Specializations and players are collected separately to prevent mixing UI control values with reconstructed statistics."
+}

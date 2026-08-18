@@ -1,0 +1,636 @@
+{
+  "data": [
+    {
+      "ilvl": 280,
+      "class_id": 8,
+      "spec": 0,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:50:26.000000Z",
+      "bossfight_id": 2021212,
+      "dps": 53354,
+      "duration": 311
+    },
+    {
+      "ilvl": 283,
+      "class_id": 4,
+      "spec": 1,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:50:26.000000Z",
+      "bossfight_id": 2021212,
+      "dps": 50589,
+      "duration": 311
+    },
+    {
+      "ilvl": 270,
+      "class_id": 1,
+      "spec": 1,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-13T18:31:54.000000Z",
+      "bossfight_id": 2020731,
+      "dps": 50531,
+      "duration": 225
+    },
+    {
+      "ilvl": 285,
+      "class_id": 9,
+      "spec": 0,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:45:58.000000Z",
+      "bossfight_id": 2021210,
+      "dps": 49279,
+      "duration": 194
+    },
+    {
+      "ilvl": 278,
+      "class_id": 9,
+      "spec": 1,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 48867,
+      "duration": 311
+    },
+    {
+      "ilvl": 283,
+      "class_id": 7,
+      "spec": 0,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:45:58.000000Z",
+      "bossfight_id": 2021210,
+      "dps": 48694,
+      "duration": 194
+    },
+    {
+      "ilvl": 280,
+      "class_id": 3,
+      "spec": 0,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:50:26.000000Z",
+      "bossfight_id": 2021212,
+      "dps": 46430,
+      "duration": 311
+    },
+    {
+      "ilvl": 277,
+      "class_id": 1,
+      "spec": 0,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:50:26.000000Z",
+      "bossfight_id": 2021212,
+      "dps": 45943,
+      "duration": 311
+    },
+    {
+      "ilvl": 281,
+      "class_id": 7,
+      "spec": 1,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 45863,
+      "duration": 311
+    },
+    {
+      "ilvl": 280,
+      "class_id": 11,
+      "spec": 0,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 45648,
+      "duration": 311
+    },
+    {
+      "ilvl": 282,
+      "class_id": 3,
+      "spec": 1,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 45249,
+      "duration": 311
+    },
+    {
+      "ilvl": 281,
+      "class_id": 3,
+      "spec": 2,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 44647,
+      "duration": 311
+    },
+    {
+      "ilvl": 280,
+      "class_id": 8,
+      "spec": 1,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 43447,
+      "duration": 311
+    },
+    {
+      "ilvl": 281,
+      "class_id": 5,
+      "spec": 2,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 42990,
+      "duration": 311
+    },
+    {
+      "ilvl": 285,
+      "class_id": 9,
+      "spec": 2,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-14T19:36:05.000000Z",
+      "bossfight_id": 2020978,
+      "dps": 41589,
+      "duration": 216
+    },
+    {
+      "ilvl": 285,
+      "class_id": 4,
+      "spec": 0,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-13T18:31:54.000000Z",
+      "bossfight_id": 2020731,
+      "dps": 39938,
+      "duration": 225
+    },
+    {
+      "ilvl": 282,
+      "class_id": 2,
+      "spec": 2,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 39727,
+      "duration": 311
+    },
+    {
+      "ilvl": 276,
+      "class_id": 4,
+      "spec": 2,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T20:13:36.000000Z",
+      "bossfight_id": 2021299,
+      "dps": 35747,
+      "duration": 311
+    },
+    {
+      "ilvl": 280,
+      "class_id": 11,
+      "spec": 1,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:50:26.000000Z",
+      "bossfight_id": 2021212,
+      "dps": 35014,
+      "duration": 311
+    },
+    {
+      "ilvl": 283,
+      "class_id": 6,
+      "spec": 0,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:45:58.000000Z",
+      "bossfight_id": 2021210,
+      "dps": 32771,
+      "duration": 194
+    },
+    {
+      "ilvl": 282,
+      "class_id": 8,
+      "spec": 2,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-16T16:50:26.000000Z",
+      "bossfight_id": 2021212,
+      "dps": 31657,
+      "duration": 311
+    },
+    {
+      "ilvl": 282,
+      "class_id": 6,
+      "spec": 2,
+      "map_id": 548,
+      "difficulty": 3,
+      "encounter_id": 4,
+      "datetime": "2026-08-13T19:19:40.000000Z",
+      "bossfight_id": 2020770,
+      "dps": 26526,
+      "duration": 292
+    }
+  ],
+  "links": {
+    "first": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&order=39&boss=4&parsings=70",
+    "last": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&order=39&boss=4&parsings=70",
+    "prev": null,
+    "next": null
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 1,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Туда",
+        "active": false
+      },
+      {
+        "url": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&order=39&boss=4&parsings=70",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Сюда &raquo;",
+        "active": false
+      }
+    ],
+    "path": "https://sirus.su/api/base/x1/leaderboard/pve",
+    "per_page": 50,
+    "to": 22,
+    "total": 22
+  },
+  "weeks": [
+    {
+      "week": "current",
+      "from": "2026-08-13",
+      "to": "2026-08-19",
+      "range": false
+    },
+    {
+      "week": "previous",
+      "from": "2026-08-06",
+      "to": "2026-08-13",
+      "range": false
+    },
+    {
+      "week": "last_two_weeks",
+      "from": "2026-07-30",
+      "to": "2026-08-19",
+      "range": false
+    },
+    {
+      "week": "last_four_weeks",
+      "from": "2026-07-16",
+      "to": "2026-08-19",
+      "range": false
+    },
+    {
+      "week": "2026-07-30",
+      "from": "2026-07-30",
+      "to": "2026-08-06",
+      "range": false
+    },
+    {
+      "week": "2026-07-23",
+      "from": "2026-07-23",
+      "to": "2026-07-30",
+      "range": false
+    },
+    {
+      "week": "2026-07-16",
+      "from": "2026-07-16",
+      "to": "2026-07-23",
+      "range": false
+    },
+    {
+      "week": "2026-07-09",
+      "from": "2026-07-09",
+      "to": "2026-07-16",
+      "range": false
+    },
+    {
+      "week": "2026-07-02",
+      "from": "2026-07-02",
+      "to": "2026-07-09",
+      "range": false
+    },
+    {
+      "week": "2026-06-25",
+      "from": "2026-06-25",
+      "to": "2026-07-02",
+      "range": false
+    },
+    {
+      "week": "2026-06-18",
+      "from": "2026-06-18",
+      "to": "2026-06-25",
+      "range": false
+    },
+    {
+      "week": "2026-06-11",
+      "from": "2026-06-11",
+      "to": "2026-06-18",
+      "range": false
+    },
+    {
+      "week": "2026-06-04",
+      "from": "2026-06-04",
+      "to": "2026-06-11",
+      "range": false
+    },
+    {
+      "week": "2026-05-28",
+      "from": "2026-05-28",
+      "to": "2026-06-04",
+      "range": false
+    },
+    {
+      "week": "2026-05-21",
+      "from": "2026-05-21",
+      "to": "2026-05-28",
+      "range": false
+    },
+    {
+      "week": "2026-05-14",
+      "from": "2026-05-14",
+      "to": "2026-05-21",
+      "range": false
+    },
+    {
+      "week": "2026-05-07",
+      "from": "2026-05-07",
+      "to": "2026-05-14",
+      "range": false
+    },
+    {
+      "week": "2026-04-30",
+      "from": "2026-04-30",
+      "to": "2026-05-07",
+      "range": false
+    },
+    {
+      "week": "2026-04-23",
+      "from": "2026-04-23",
+      "to": "2026-04-30",
+      "range": false
+    },
+    {
+      "week": "2026-04-16",
+      "from": "2026-04-16",
+      "to": "2026-04-23",
+      "range": false
+    },
+    {
+      "week": "2026-04-09",
+      "from": "2026-04-09",
+      "to": "2026-04-16",
+      "range": false
+    },
+    {
+      "week": "2026-04-02",
+      "from": "2026-04-02",
+      "to": "2026-04-09",
+      "range": false
+    },
+    {
+      "week": "2026-03-26",
+      "from": "2026-03-26",
+      "to": "2026-04-02",
+      "range": false
+    },
+    {
+      "week": "2026-03-19",
+      "from": "2026-03-19",
+      "to": "2026-03-26",
+      "range": false
+    },
+    {
+      "week": "2026-03-12",
+      "from": "2026-03-12",
+      "to": "2026-03-19",
+      "range": false
+    },
+    {
+      "week": "2026-03-05",
+      "from": "2026-03-05",
+      "to": "2026-03-12",
+      "range": false
+    },
+    {
+      "week": "2026-02-26",
+      "from": "2026-02-26",
+      "to": "2026-03-05",
+      "range": false
+    },
+    {
+      "week": "2026-02-19",
+      "from": "2026-02-19",
+      "to": "2026-02-26",
+      "range": false
+    },
+    {
+      "week": "2026-02-12",
+      "from": "2026-02-12",
+      "to": "2026-02-19",
+      "range": false
+    },
+    {
+      "week": "2026-02-05",
+      "from": "2026-02-05",
+      "to": "2026-02-12",
+      "range": false
+    },
+    {
+      "week": "2026-01-29",
+      "from": "2026-01-29",
+      "to": "2026-02-05",
+      "range": false
+    },
+    {
+      "week": "2026-01-22",
+      "from": "2026-01-22",
+      "to": "2026-01-29",
+      "range": false
+    },
+    {
+      "week": "2026-01-15",
+      "from": "2026-01-15",
+      "to": "2026-01-22",
+      "range": false
+    },
+    {
+      "week": "2026-01-08",
+      "from": "2026-01-08",
+      "to": "2026-01-15",
+      "range": false
+    },
+    {
+      "week": "2026-01-01",
+      "from": "2026-01-01",
+      "to": "2026-01-08",
+      "range": false
+    },
+    {
+      "week": "2025-12-25",
+      "from": "2025-12-25",
+      "to": "2026-01-01",
+      "range": false
+    },
+    {
+      "week": "2025-12-18",
+      "from": "2025-12-18",
+      "to": "2025-12-25",
+      "range": false
+    },
+    {
+      "week": "2025-12-11",
+      "from": "2025-12-11",
+      "to": "2025-12-18",
+      "range": false
+    },
+    {
+      "week": "2025-12-04",
+      "from": "2025-12-04",
+      "to": "2025-12-11",
+      "range": false
+    },
+    {
+      "week": "2025-11-27",
+      "from": "2025-11-27",
+      "to": "2025-12-04",
+      "range": false
+    },
+    {
+      "week": "2025-11-20",
+      "from": "2025-11-20",
+      "to": "2025-11-27",
+      "range": false
+    },
+    {
+      "week": "2025-11-13",
+      "from": "2025-11-13",
+      "to": "2025-11-20",
+      "range": false
+    },
+    {
+      "week": "2025-11-06",
+      "from": "2025-11-06",
+      "to": "2025-11-13",
+      "range": false
+    },
+    {
+      "week": "2025-10-30",
+      "from": "2025-10-30",
+      "to": "2025-11-06",
+      "range": false
+    },
+    {
+      "week": "2025-10-23",
+      "from": "2025-10-23",
+      "to": "2025-10-30",
+      "range": false
+    },
+    {
+      "week": "2025-10-16",
+      "from": "2025-10-16",
+      "to": "2025-10-23",
+      "range": false
+    },
+    {
+      "week": "2025-10-09",
+      "from": "2025-10-09",
+      "to": "2025-10-16",
+      "range": false
+    },
+    {
+      "week": "2025-10-02",
+      "from": "2025-10-02",
+      "to": "2025-10-09",
+      "range": false
+    },
+    {
+      "week": "2025-09-25",
+      "from": "2025-09-25",
+      "to": "2025-10-02",
+      "range": false
+    },
+    {
+      "week": "2025-09-18",
+      "from": "2025-09-18",
+      "to": "2025-09-25",
+      "range": false
+    },
+    {
+      "week": "2025-09-11",
+      "from": "2025-09-11",
+      "to": "2025-09-18",
+      "range": false
+    },
+    {
+      "week": "2025-09-04",
+      "from": "2025-09-04",
+      "to": "2025-09-11",
+      "range": false
+    },
+    {
+      "week": "2025-08-28",
+      "from": "2025-08-28",
+      "to": "2025-09-04",
+      "range": false
+    },
+    {
+      "week": "2025-08-21",
+      "from": "2025-08-21",
+      "to": "2025-08-28",
+      "range": false
+    },
+    {
+      "week": "2025-08-14",
+      "from": "2025-08-14",
+      "to": "2025-08-21",
+      "range": false
+    }
+  ],
+  "ilvl": {
+    "min": 0,
+    "max": 306
+  }
+}

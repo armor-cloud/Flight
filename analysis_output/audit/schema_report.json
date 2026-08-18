@@ -1,0 +1,38 @@
+{
+  "specialization_row_keys": [
+    "bossfight_id",
+    "class_id",
+    "datetime",
+    "difficulty",
+    "dps",
+    "duration",
+    "encounter_id",
+    "ilvl",
+    "map_id",
+    "spec"
+  ],
+  "player_row_keys": [
+    "bossfight_id",
+    "category",
+    "class_id",
+    "datetime",
+    "difficulty",
+    "dps",
+    "duration",
+    "encounter_id",
+    "gender",
+    "guid",
+    "guild_id",
+    "ilvl",
+    "itemset",
+    "map_id",
+    "name",
+    "race_id",
+    "rank",
+    "spec",
+    "zodiac"
+  ],
+  "fight_entry_keys": [],
+  "fight_ids_found": 0,
+  "player_fight_entries_found": 0
+}

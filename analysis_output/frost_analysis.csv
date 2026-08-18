@@ -1,0 +1,11 @@
+﻿raid,boss,frost_n,frost_median_dps,overall_spec_median_dps,frost_vs_overall_pct,melee_spec_median_dps,frost_vs_melee_pct,unholy_median_dps,frost_vs_unholy_pct,frost_rank,dps_specs_present
+SSC,Hydross,10,33549.5,31862,5.3,30554.5,9.8,29789,12.62,8,23
+SSC,Karathress,9,28790,31088.75,-7.39,26579.5,8.32,25946,10.96,16,22
+SSC,Lady Vashj,9,42514,37775.0,12.55,38241.0,11.17,38241.0,11.17,3,22
+SSC,Leotheras,8,42439.0,41347.25,2.64,39587,7.2,40860,3.86,9,22
+SSC,Morogrim,12,38077.5,45956,-17.14,45783,-16.83,46263,-17.69,22,23
+SSC,The Lurker Below,3,40510,42687.0,-5.1,38349.5,5.63,35445,14.29,12,20
+TK,Al'ar,8,25808.0,31807.0,-18.86,29220,-11.68,29220,-11.68,20,23
+TK,Kael'thas,6,22259.5,28295,-21.33,22259.5,0.0,21934.5,1.48,18,23
+TK,Solarian,10,32548.0,37724,-13.72,34662,-6.1,30384.0,7.12,21,23
+TK,Void Reaver,13,39087,39156.5,-0.18,37879.5,3.19,38056,2.71,13,23
