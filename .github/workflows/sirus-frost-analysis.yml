@@ -25,11 +25,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r tools/sirus_frost_analysis/requirements.txt
 
-      - name: Fetch Sirus HM data
+      - name: Fetch Sirus HM aggregate data
         env:
           SIRUS_WEEK_FROM: '2026-07-23'
           SIRUS_WEEK_TO: '2026-08-18'
         run: python tools/sirus_frost_analysis/fetch_sirus.py
+
+      - name: Fetch auditable Sirus raw data
+        env:
+          SIRUS_WEEK_FROM: '2026-07-23'
+          SIRUS_WEEK_TO: '2026-08-18'
+        run: python tools/sirus_frost_analysis/audit_sirus.py
 
       - name: Upload analysis artifact
         uses: actions/upload-artifact@v4
