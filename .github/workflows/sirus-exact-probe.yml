@@ -1,0 +1,49 @@
+name: Sirus exact specialization probe
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [sirus-frost-analysis]
+    paths:
+      - '.github/workflows/sirus-exact-probe.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sirus-frost-analysis
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Fetch exact specialization API
+        run: |
+          python - <<'PY'
+          import json, requests
+          from pathlib import Path
+          base='https://sirus.su/api/base/x1/leaderboard/pve'
+          params={
+            'ladder':'specializations','type':'dps','aggregation':'quartiles',
+            'week_from':'2026-07-16','week_to':'2026-08-19','i':39,'boss':0,
+            'parsings':70,'page':1,'perPage':100
+          }
+          r=requests.get(base,params=params,headers={'User-Agent':'Mozilla/5.0','Accept':'application/json'},timeout=45)
+          r.raise_for_status(); js=r.json()
+          out={'request_url':r.url,'data':js.get('data'),'meta':js.get('meta'),'links':js.get('links'),'weeks':js.get('weeks')}
+          Path('analysis_output').mkdir(exist_ok=True)
+          Path('analysis_output/exact_quartiles_probe.json').write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding='utf-8')
+          print(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+      - name: Publish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add analysis_output/exact_quartiles_probe.json
+          git diff --cached --quiet || git commit -m "Update exact quartiles probe [skip ci]"
+          git push origin HEAD:sirus-frost-analysis
