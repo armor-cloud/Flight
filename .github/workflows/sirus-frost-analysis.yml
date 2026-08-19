@@ -15,7 +15,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,46 +30,31 @@ jobs:
       - name: Install dependencies
         run: pip install -r tools/sirus_frost_analysis/requirements.txt
 
-      - name: Probe official Sirus period/parsing params
-        run: python tools/sirus_frost_analysis/probe_sirus.py
+      - name: Collect final auditable HM dataset
+        run: python tools/sirus_frost_analysis/collect_final.py
 
-      - name: Fetch Sirus HM aggregate data
-        env:
-          SIRUS_WEEK_FROM: '2026-07-23'
-          SIRUS_WEEK_TO: '2026-08-18'
-        run: python tools/sirus_frost_analysis/fetch_sirus.py
-
-      - name: Fetch auditable Sirus raw data
-        env:
-          SIRUS_WEEK_FROM: '2026-07-23'
-          SIRUS_WEEK_TO: '2026-08-18'
-        run: python tools/sirus_frost_analysis/audit_sirus.py
-
-      - name: Publish compact review files to branch
+      - name: Publish compact final review files to branch
         if: always()
         run: |
-          rm -rf analysis_output
-          mkdir -p analysis_output/audit/raw_specializations
-          cp artifacts/sirus_frost/probe_results.json analysis_output/ 2>/dev/null || true
-          cp artifacts/sirus_frost/frost_analysis.csv analysis_output/ 2>/dev/null || true
-          cp artifacts/sirus_frost/spec_boss_medians.csv analysis_output/ 2>/dev/null || true
-          cp artifacts/sirus_frost/manifest.json analysis_output/ 2>/dev/null || true
-          cp artifacts/sirus_frost/audit/audit_summary.json analysis_output/audit/ 2>/dev/null || true
-          cp artifacts/sirus_frost/audit/schema_report.json analysis_output/audit/ 2>/dev/null || true
-          cp artifacts/sirus_frost/audit/request_manifest.csv analysis_output/audit/ 2>/dev/null || true
-          cp artifacts/sirus_frost/audit/fight_fetch_manifest.csv analysis_output/audit/ 2>/dev/null || true
-          cp artifacts/sirus_frost/audit/raw/specializations/*.json analysis_output/audit/raw_specializations/ 2>/dev/null || true
+          rm -rf analysis_output/final
+          mkdir -p analysis_output/final/raw_specializations
+          cp artifacts/sirus_frost/final/summary.csv analysis_output/final/ 2>/dev/null || true
+          cp artifacts/sirus_frost/final/specializations_long.csv analysis_output/final/ 2>/dev/null || true
+          cp artifacts/sirus_frost/final/frost_proof.csv analysis_output/final/ 2>/dev/null || true
+          cp artifacts/sirus_frost/final/request_manifest.csv analysis_output/final/ 2>/dev/null || true
+          cp artifacts/sirus_frost/final/run_info.json analysis_output/final/ 2>/dev/null || true
+          cp artifacts/sirus_frost/final/raw/specializations/*.json analysis_output/final/raw_specializations/ 2>/dev/null || true
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add analysis_output
-          git diff --cached --quiet || git commit -m "Update Sirus audit results [skip ci]"
+          git add analysis_output/final
+          git diff --cached --quiet || git commit -m "Update final Sirus HM analysis [skip ci]"
           git push origin HEAD:sirus-frost-analysis
 
-      - name: Upload full analysis artifact
+      - name: Upload full final analysis artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: sirus-frost-analysis
-          path: artifacts/sirus_frost/
+          name: sirus-frost-final
+          path: artifacts/sirus_frost/final/
           if-no-files-found: warn
           retention-days: 14
