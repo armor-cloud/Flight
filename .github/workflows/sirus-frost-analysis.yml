@@ -15,7 +15,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,31 +30,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r tools/sirus_frost_analysis/requirements.txt
 
-      - name: Collect final auditable HM dataset
-        run: python tools/sirus_frost_analysis/collect_final.py
+      - name: Collect boss-specific top-40 player-log dataset
+        run: python tools/sirus_frost_analysis/collect_players_top40.py
 
-      - name: Publish compact final review files to branch
+      - name: Publish compact player top-40 review files to branch
         if: always()
         run: |
-          rm -rf analysis_output/final
-          mkdir -p analysis_output/final/raw_specializations
-          cp artifacts/sirus_frost/final/summary.csv analysis_output/final/ 2>/dev/null || true
-          cp artifacts/sirus_frost/final/specializations_long.csv analysis_output/final/ 2>/dev/null || true
-          cp artifacts/sirus_frost/final/frost_proof.csv analysis_output/final/ 2>/dev/null || true
-          cp artifacts/sirus_frost/final/request_manifest.csv analysis_output/final/ 2>/dev/null || true
-          cp artifacts/sirus_frost/final/run_info.json analysis_output/final/ 2>/dev/null || true
-          cp artifacts/sirus_frost/final/raw/specializations/*.json analysis_output/final/raw_specializations/ 2>/dev/null || true
+          rm -rf analysis_output/player_top40
+          mkdir -p analysis_output/player_top40
+          cp artifacts/sirus_frost/player_top40/boss_summary.csv analysis_output/player_top40/ 2>/dev/null || true
+          cp artifacts/sirus_frost/player_top40/spec_summary.csv analysis_output/player_top40/ 2>/dev/null || true
+          cp artifacts/sirus_frost/player_top40/frost_proof.csv analysis_output/player_top40/ 2>/dev/null || true
+          cp artifacts/sirus_frost/player_top40/run_info.json analysis_output/player_top40/ 2>/dev/null || true
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add analysis_output/final
-          git diff --cached --quiet || git commit -m "Update final Sirus HM analysis [skip ci]"
+          git add analysis_output/player_top40
+          git diff --cached --quiet || git commit -m "Update boss-specific Sirus top-40 analysis [skip ci]"
           git push origin HEAD:sirus-frost-analysis
 
-      - name: Upload full final analysis artifact
+      - name: Upload full player top-40 analysis artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: sirus-frost-final
-          path: artifacts/sirus_frost/final/
+          name: sirus-frost-player-top40
+          path: artifacts/sirus_frost/player_top40/
           if-no-files-found: warn
           retention-days: 14
