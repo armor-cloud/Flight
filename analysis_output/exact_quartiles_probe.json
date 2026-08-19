@@ -1,0 +1,729 @@
+{
+  "request_url": "https://sirus.su/api/base/x1/leaderboard/pve?ladder=specializations&type=dps&aggregation=quartiles&week_from=2026-07-16&week_to=2026-08-19&i=39&boss=0&parsings=70&page=1&perPage=100",
+  "data": [
+    {
+      "ilvl": 281,
+      "class_id": 8,
+      "spec": 0,
+      "dps_min": 36363,
+      "dps_q1": 43449,
+      "dps_med": 47718,
+      "dps_avg": 49531,
+      "dps_q3": 54998,
+      "dps_max": 68942,
+      "count": 54
+    },
+    {
+      "ilvl": 280,
+      "class_id": 11,
+      "spec": 0,
+      "dps_min": 27042,
+      "dps_q1": 30849,
+      "dps_med": 33702,
+      "dps_avg": 33765,
+      "dps_q3": 36613,
+      "dps_max": 41450,
+      "count": 69
+    },
+    {
+      "ilvl": 280,
+      "class_id": 2,
+      "spec": 2,
+      "dps_min": 25336,
+      "dps_q1": 28574,
+      "dps_med": 32239,
+      "dps_avg": 32128,
+      "dps_q3": 35434,
+      "dps_max": 41241,
+      "count": 71
+    },
+    {
+      "ilvl": 281,
+      "class_id": 5,
+      "spec": 2,
+      "dps_min": 28234,
+      "dps_q1": 31496,
+      "dps_med": 34016,
+      "dps_avg": 34204,
+      "dps_q3": 37049,
+      "dps_max": 42422,
+      "count": 52
+    },
+    {
+      "ilvl": 280,
+      "class_id": 9,
+      "spec": 1,
+      "dps_min": 28854,
+      "dps_q1": 30843,
+      "dps_med": 33981,
+      "dps_avg": 33804,
+      "dps_q3": 36309,
+      "dps_max": 42615,
+      "count": 49
+    },
+    {
+      "ilvl": 281,
+      "class_id": 3,
+      "spec": 1,
+      "dps_min": 27355,
+      "dps_q1": 29214,
+      "dps_med": 34846,
+      "dps_avg": 34469,
+      "dps_q3": 38332,
+      "dps_max": 47437,
+      "count": 31
+    },
+    {
+      "ilvl": 282,
+      "class_id": 7,
+      "spec": 0,
+      "dps_min": 30652,
+      "dps_q1": 33751,
+      "dps_med": 36645,
+      "dps_avg": 37131,
+      "dps_q3": 41775,
+      "dps_max": 44317,
+      "count": 28
+    },
+    {
+      "ilvl": 281,
+      "class_id": 8,
+      "spec": 1,
+      "dps_min": 25853,
+      "dps_q1": 30959,
+      "dps_med": 37484,
+      "dps_avg": 35838,
+      "dps_q3": 39882,
+      "dps_max": 47686,
+      "count": 28
+    },
+    {
+      "ilvl": 282,
+      "class_id": 7,
+      "spec": 1,
+      "dps_min": 27136,
+      "dps_q1": 30065,
+      "dps_med": 33393,
+      "dps_avg": 34034,
+      "dps_q3": 38310,
+      "dps_max": 42782,
+      "count": 28
+    },
+    {
+      "ilvl": 280,
+      "class_id": 6,
+      "spec": 0,
+      "dps_min": 18446,
+      "dps_q1": 25519,
+      "dps_med": 32860,
+      "dps_avg": 32396,
+      "dps_q3": 36956,
+      "dps_max": 48668,
+      "count": 28
+    },
+    {
+      "ilvl": 281,
+      "class_id": 11,
+      "spec": 1,
+      "dps_min": 5019,
+      "dps_q1": 25480,
+      "dps_med": 27514,
+      "dps_avg": 26527,
+      "dps_q3": 32262,
+      "dps_max": 39959,
+      "count": 28
+    },
+    {
+      "ilvl": 283,
+      "class_id": 3,
+      "spec": 2,
+      "dps_min": 29381,
+      "dps_q1": 32375,
+      "dps_med": 34940,
+      "dps_avg": 35189,
+      "dps_q3": 37254,
+      "dps_max": 46783,
+      "count": 21
+    },
+    {
+      "ilvl": 279,
+      "class_id": 3,
+      "spec": 0,
+      "dps_min": 24886,
+      "dps_q1": 29495,
+      "dps_med": 32095,
+      "dps_avg": 33824,
+      "dps_q3": 37131,
+      "dps_max": 44827,
+      "count": 21
+    },
+    {
+      "ilvl": 281,
+      "class_id": 6,
+      "spec": 1,
+      "dps_min": 2567,
+      "dps_q1": 2705,
+      "dps_med": 16731,
+      "dps_avg": 18104,
+      "dps_q3": 34032,
+      "dps_max": 39527,
+      "count": 31
+    },
+    {
+      "ilvl": 281,
+      "class_id": 1,
+      "spec": 0,
+      "dps_min": 24551,
+      "dps_q1": 30065,
+      "dps_med": 32483,
+      "dps_avg": 32372,
+      "dps_q3": 36032,
+      "dps_max": 37453,
+      "count": 17
+    },
+    {
+      "ilvl": 284,
+      "class_id": 4,
+      "spec": 1,
+      "dps_min": 33271,
+      "dps_q1": 38432,
+      "dps_med": 41620,
+      "dps_avg": 40964,
+      "dps_q3": 44138,
+      "dps_max": 45714,
+      "count": 10
+    },
+    {
+      "ilvl": 279,
+      "class_id": 6,
+      "spec": 2,
+      "dps_min": 2579,
+      "dps_q1": 3137,
+      "dps_med": 25850,
+      "dps_avg": 21183,
+      "dps_q3": 34928,
+      "dps_max": 38178,
+      "count": 18
+    },
+    {
+      "ilvl": 283,
+      "class_id": 9,
+      "spec": 0,
+      "dps_min": 41815,
+      "dps_q1": 43966,
+      "dps_med": 44981,
+      "dps_avg": 44641,
+      "dps_q3": 45863,
+      "dps_max": 46266,
+      "count": 8
+    },
+    {
+      "ilvl": 280,
+      "class_id": 4,
+      "spec": 2,
+      "dps_min": 24589,
+      "dps_q1": 26432,
+      "dps_med": 30080,
+      "dps_avg": 29890,
+      "dps_q3": 32773,
+      "dps_max": 38550,
+      "count": 10
+    },
+    {
+      "ilvl": 282,
+      "class_id": 4,
+      "spec": 0,
+      "dps_min": 28168,
+      "dps_q1": 29302,
+      "dps_med": 30659,
+      "dps_avg": 30492,
+      "dps_q3": 31809,
+      "dps_max": 32296,
+      "count": 9
+    },
+    {
+      "ilvl": 281,
+      "class_id": 1,
+      "spec": 1,
+      "dps_min": 23634,
+      "dps_q1": 27470,
+      "dps_med": 28862,
+      "dps_avg": 28014,
+      "dps_q3": 29508,
+      "dps_max": 30862,
+      "count": 9
+    },
+    {
+      "ilvl": 281,
+      "class_id": 9,
+      "spec": 2,
+      "dps_min": 29062,
+      "dps_q1": 32208,
+      "dps_med": 34712,
+      "dps_avg": 34240,
+      "dps_q3": 35621,
+      "dps_max": 39126,
+      "count": 6
+    },
+    {
+      "ilvl": 280,
+      "class_id": 2,
+      "spec": 1,
+      "dps_min": 3404,
+      "dps_q1": 3986,
+      "dps_med": 4472,
+      "dps_avg": 4529,
+      "dps_q3": 4980,
+      "dps_max": 5670,
+      "count": 35
+    },
+    {
+      "ilvl": 276,
+      "class_id": 8,
+      "spec": 2,
+      "dps_min": 14728,
+      "dps_q1": 26308,
+      "dps_med": 30497,
+      "dps_avg": 27133,
+      "dps_q3": 31626,
+      "dps_max": 32505,
+      "count": 5
+    },
+    {
+      "ilvl": 280,
+      "class_id": 1,
+      "spec": 2,
+      "dps_min": 2000,
+      "dps_q1": 2191,
+      "dps_med": 2525,
+      "dps_avg": 2600,
+      "dps_q3": 2804,
+      "dps_max": 3730,
+      "count": 24
+    },
+    {
+      "ilvl": 280,
+      "class_id": 2,
+      "spec": 0,
+      "dps_min": 161,
+      "dps_q1": 218,
+      "dps_med": 277,
+      "dps_avg": 292,
+      "dps_q3": 368,
+      "dps_max": 575,
+      "count": 52
+    },
+    {
+      "ilvl": 281,
+      "class_id": 5,
+      "spec": 0,
+      "dps_min": 121,
+      "dps_q1": 150,
+      "dps_med": 172,
+      "dps_avg": 171,
+      "dps_q3": 183,
+      "dps_max": 262,
+      "count": 22
+    },
+    {
+      "ilvl": 283,
+      "class_id": 5,
+      "spec": 1,
+      "dps_min": 97,
+      "dps_q1": 121,
+      "dps_med": 153,
+      "dps_avg": 164,
+      "dps_q3": 216,
+      "dps_max": 246,
+      "count": 7
+    },
+    {
+      "ilvl": 280,
+      "class_id": 7,
+      "spec": 2,
+      "dps_min": 1,
+      "dps_q1": 2,
+      "dps_med": 12,
+      "dps_avg": 19,
+      "dps_q3": 38,
+      "dps_max": 42,
+      "count": 5
+    },
+    {
+      "ilvl": 281,
+      "class_id": 11,
+      "spec": 2,
+      "dps_min": 5,
+      "dps_q1": 5,
+      "dps_med": 6,
+      "dps_avg": 6,
+      "dps_q3": 6,
+      "dps_max": 6,
+      "count": 2
+    }
+  ],
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 1,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Туда",
+        "active": false
+      },
+      {
+        "url": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=quartiles&order=39&boss=0&parsings=70",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Сюда &raquo;",
+        "active": false
+      }
+    ],
+    "path": "https://sirus.su/api/base/x1/leaderboard/pve",
+    "per_page": 50,
+    "to": 30,
+    "total": 30
+  },
+  "links": {
+    "first": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=quartiles&order=39&boss=0&parsings=70",
+    "last": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=quartiles&order=39&boss=0&parsings=70",
+    "prev": null,
+    "next": null
+  },
+  "weeks": [
+    {
+      "week": "current",
+      "from": "2026-08-13",
+      "to": "2026-08-19",
+      "range": false
+    },
+    {
+      "week": "previous",
+      "from": "2026-08-06",
+      "to": "2026-08-13",
+      "range": false
+    },
+    {
+      "week": "last_two_weeks",
+      "from": "2026-07-30",
+      "to": "2026-08-19",
+      "range": false
+    },
+    {
+      "week": "last_four_weeks",
+      "from": "2026-07-16",
+      "to": "2026-08-19",
+      "range": false
+    },
+    {
+      "week": "2026-07-30",
+      "from": "2026-07-30",
+      "to": "2026-08-06",
+      "range": false
+    },
+    {
+      "week": "2026-07-23",
+      "from": "2026-07-23",
+      "to": "2026-07-30",
+      "range": false
+    },
+    {
+      "week": "2026-07-16",
+      "from": "2026-07-16",
+      "to": "2026-07-23",
+      "range": false
+    },
+    {
+      "week": "2026-07-09",
+      "from": "2026-07-09",
+      "to": "2026-07-16",
+      "range": false
+    },
+    {
+      "week": "2026-07-02",
+      "from": "2026-07-02",
+      "to": "2026-07-09",
+      "range": false
+    },
+    {
+      "week": "2026-06-25",
+      "from": "2026-06-25",
+      "to": "2026-07-02",
+      "range": false
+    },
+    {
+      "week": "2026-06-18",
+      "from": "2026-06-18",
+      "to": "2026-06-25",
+      "range": false
+    },
+    {
+      "week": "2026-06-11",
+      "from": "2026-06-11",
+      "to": "2026-06-18",
+      "range": false
+    },
+    {
+      "week": "2026-06-04",
+      "from": "2026-06-04",
+      "to": "2026-06-11",
+      "range": false
+    },
+    {
+      "week": "2026-05-28",
+      "from": "2026-05-28",
+      "to": "2026-06-04",
+      "range": false
+    },
+    {
+      "week": "2026-05-21",
+      "from": "2026-05-21",
+      "to": "2026-05-28",
+      "range": false
+    },
+    {
+      "week": "2026-05-14",
+      "from": "2026-05-14",
+      "to": "2026-05-21",
+      "range": false
+    },
+    {
+      "week": "2026-05-07",
+      "from": "2026-05-07",
+      "to": "2026-05-14",
+      "range": false
+    },
+    {
+      "week": "2026-04-30",
+      "from": "2026-04-30",
+      "to": "2026-05-07",
+      "range": false
+    },
+    {
+      "week": "2026-04-23",
+      "from": "2026-04-23",
+      "to": "2026-04-30",
+      "range": false
+    },
+    {
+      "week": "2026-04-16",
+      "from": "2026-04-16",
+      "to": "2026-04-23",
+      "range": false
+    },
+    {
+      "week": "2026-04-09",
+      "from": "2026-04-09",
+      "to": "2026-04-16",
+      "range": false
+    },
+    {
+      "week": "2026-04-02",
+      "from": "2026-04-02",
+      "to": "2026-04-09",
+      "range": false
+    },
+    {
+      "week": "2026-03-26",
+      "from": "2026-03-26",
+      "to": "2026-04-02",
+      "range": false
+    },
+    {
+      "week": "2026-03-19",
+      "from": "2026-03-19",
+      "to": "2026-03-26",
+      "range": false
+    },
+    {
+      "week": "2026-03-12",
+      "from": "2026-03-12",
+      "to": "2026-03-19",
+      "range": false
+    },
+    {
+      "week": "2026-03-05",
+      "from": "2026-03-05",
+      "to": "2026-03-12",
+      "range": false
+    },
+    {
+      "week": "2026-02-26",
+      "from": "2026-02-26",
+      "to": "2026-03-05",
+      "range": false
+    },
+    {
+      "week": "2026-02-19",
+      "from": "2026-02-19",
+      "to": "2026-02-26",
+      "range": false
+    },
+    {
+      "week": "2026-02-12",
+      "from": "2026-02-12",
+      "to": "2026-02-19",
+      "range": false
+    },
+    {
+      "week": "2026-02-05",
+      "from": "2026-02-05",
+      "to": "2026-02-12",
+      "range": false
+    },
+    {
+      "week": "2026-01-29",
+      "from": "2026-01-29",
+      "to": "2026-02-05",
+      "range": false
+    },
+    {
+      "week": "2026-01-22",
+      "from": "2026-01-22",
+      "to": "2026-01-29",
+      "range": false
+    },
+    {
+      "week": "2026-01-15",
+      "from": "2026-01-15",
+      "to": "2026-01-22",
+      "range": false
+    },
+    {
+      "week": "2026-01-08",
+      "from": "2026-01-08",
+      "to": "2026-01-15",
+      "range": false
+    },
+    {
+      "week": "2026-01-01",
+      "from": "2026-01-01",
+      "to": "2026-01-08",
+      "range": false
+    },
+    {
+      "week": "2025-12-25",
+      "from": "2025-12-25",
+      "to": "2026-01-01",
+      "range": false
+    },
+    {
+      "week": "2025-12-18",
+      "from": "2025-12-18",
+      "to": "2025-12-25",
+      "range": false
+    },
+    {
+      "week": "2025-12-11",
+      "from": "2025-12-11",
+      "to": "2025-12-18",
+      "range": false
+    },
+    {
+      "week": "2025-12-04",
+      "from": "2025-12-04",
+      "to": "2025-12-11",
+      "range": false
+    },
+    {
+      "week": "2025-11-27",
+      "from": "2025-11-27",
+      "to": "2025-12-04",
+      "range": false
+    },
+    {
+      "week": "2025-11-20",
+      "from": "2025-11-20",
+      "to": "2025-11-27",
+      "range": false
+    },
+    {
+      "week": "2025-11-13",
+      "from": "2025-11-13",
+      "to": "2025-11-20",
+      "range": false
+    },
+    {
+      "week": "2025-11-06",
+      "from": "2025-11-06",
+      "to": "2025-11-13",
+      "range": false
+    },
+    {
+      "week": "2025-10-30",
+      "from": "2025-10-30",
+      "to": "2025-11-06",
+      "range": false
+    },
+    {
+      "week": "2025-10-23",
+      "from": "2025-10-23",
+      "to": "2025-10-30",
+      "range": false
+    },
+    {
+      "week": "2025-10-16",
+      "from": "2025-10-16",
+      "to": "2025-10-23",
+      "range": false
+    },
+    {
+      "week": "2025-10-09",
+      "from": "2025-10-09",
+      "to": "2025-10-16",
+      "range": false
+    },
+    {
+      "week": "2025-10-02",
+      "from": "2025-10-02",
+      "to": "2025-10-09",
+      "range": false
+    },
+    {
+      "week": "2025-09-25",
+      "from": "2025-09-25",
+      "to": "2025-10-02",
+      "range": false
+    },
+    {
+      "week": "2025-09-18",
+      "from": "2025-09-18",
+      "to": "2025-09-25",
+      "range": false
+    },
+    {
+      "week": "2025-09-11",
+      "from": "2025-09-11",
+      "to": "2025-09-18",
+      "range": false
+    },
+    {
+      "week": "2025-09-04",
+      "from": "2025-09-04",
+      "to": "2025-09-11",
+      "range": false
+    },
+    {
+      "week": "2025-08-28",
+      "from": "2025-08-28",
+      "to": "2025-09-04",
+      "range": false
+    },
+    {
+      "week": "2025-08-21",
+      "from": "2025-08-21",
+      "to": "2025-08-28",
+      "range": false
+    },
+    {
+      "week": "2025-08-14",
+      "from": "2025-08-14",
+      "to": "2025-08-21",
+      "range": false
+    }
+  ]
+}
