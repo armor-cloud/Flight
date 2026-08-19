@@ -1,0 +1,2220 @@
+{
+  "old_range_i": {
+    "request_url": "https://sirus.su/api/base/x1/leaderboard/pve?ladder=specializations&type=dps&aggregation=avg&week_from=2026-07-23&week_to=2026-08-18&per_page=500&page=1&i=38&boss=1",
+    "returned_first_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&order=38&boss=1&parsings=70",
+    "returned_last_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&order=38&boss=1&parsings=70",
+    "row_count": 23,
+    "min_datetime": "2026-08-13T21:43:38.000000Z",
+    "max_datetime": "2026-08-17T17:46:09.000000Z",
+    "frost_row": {
+      "ilvl": 282,
+      "class_id": 6,
+      "spec": 1,
+      "map_id": 550,
+      "difficulty": 3,
+      "encounter_id": 1,
+      "datetime": "2026-08-16T17:23:31.000000Z",
+      "bossfight_id": 2021232,
+      "dps": 20260,
+      "duration": 218
+    },
+    "weeks": [
+      {
+        "week": "current",
+        "from": "2026-08-13",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "previous",
+        "from": "2026-08-06",
+        "to": "2026-08-13",
+        "range": false
+      },
+      {
+        "week": "last_two_weeks",
+        "from": "2026-07-30",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "last_four_weeks",
+        "from": "2026-07-16",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "2026-07-30",
+        "from": "2026-07-30",
+        "to": "2026-08-06",
+        "range": false
+      },
+      {
+        "week": "2026-07-23",
+        "from": "2026-07-23",
+        "to": "2026-07-30",
+        "range": false
+      },
+      {
+        "week": "2026-07-16",
+        "from": "2026-07-16",
+        "to": "2026-07-23",
+        "range": false
+      },
+      {
+        "week": "2026-07-09",
+        "from": "2026-07-09",
+        "to": "2026-07-16",
+        "range": false
+      },
+      {
+        "week": "2026-07-02",
+        "from": "2026-07-02",
+        "to": "2026-07-09",
+        "range": false
+      },
+      {
+        "week": "2026-06-25",
+        "from": "2026-06-25",
+        "to": "2026-07-02",
+        "range": false
+      },
+      {
+        "week": "2026-06-18",
+        "from": "2026-06-18",
+        "to": "2026-06-25",
+        "range": false
+      },
+      {
+        "week": "2026-06-11",
+        "from": "2026-06-11",
+        "to": "2026-06-18",
+        "range": false
+      },
+      {
+        "week": "2026-06-04",
+        "from": "2026-06-04",
+        "to": "2026-06-11",
+        "range": false
+      },
+      {
+        "week": "2026-05-28",
+        "from": "2026-05-28",
+        "to": "2026-06-04",
+        "range": false
+      },
+      {
+        "week": "2026-05-21",
+        "from": "2026-05-21",
+        "to": "2026-05-28",
+        "range": false
+      },
+      {
+        "week": "2026-05-14",
+        "from": "2026-05-14",
+        "to": "2026-05-21",
+        "range": false
+      },
+      {
+        "week": "2026-05-07",
+        "from": "2026-05-07",
+        "to": "2026-05-14",
+        "range": false
+      },
+      {
+        "week": "2026-04-30",
+        "from": "2026-04-30",
+        "to": "2026-05-07",
+        "range": false
+      },
+      {
+        "week": "2026-04-23",
+        "from": "2026-04-23",
+        "to": "2026-04-30",
+        "range": false
+      },
+      {
+        "week": "2026-04-16",
+        "from": "2026-04-16",
+        "to": "2026-04-23",
+        "range": false
+      },
+      {
+        "week": "2026-04-09",
+        "from": "2026-04-09",
+        "to": "2026-04-16",
+        "range": false
+      },
+      {
+        "week": "2026-04-02",
+        "from": "2026-04-02",
+        "to": "2026-04-09",
+        "range": false
+      },
+      {
+        "week": "2026-03-26",
+        "from": "2026-03-26",
+        "to": "2026-04-02",
+        "range": false
+      },
+      {
+        "week": "2026-03-19",
+        "from": "2026-03-19",
+        "to": "2026-03-26",
+        "range": false
+      },
+      {
+        "week": "2026-03-12",
+        "from": "2026-03-12",
+        "to": "2026-03-19",
+        "range": false
+      },
+      {
+        "week": "2026-03-05",
+        "from": "2026-03-05",
+        "to": "2026-03-12",
+        "range": false
+      },
+      {
+        "week": "2026-02-26",
+        "from": "2026-02-26",
+        "to": "2026-03-05",
+        "range": false
+      },
+      {
+        "week": "2026-02-19",
+        "from": "2026-02-19",
+        "to": "2026-02-26",
+        "range": false
+      },
+      {
+        "week": "2026-02-12",
+        "from": "2026-02-12",
+        "to": "2026-02-19",
+        "range": false
+      },
+      {
+        "week": "2026-02-05",
+        "from": "2026-02-05",
+        "to": "2026-02-12",
+        "range": false
+      },
+      {
+        "week": "2026-01-29",
+        "from": "2026-01-29",
+        "to": "2026-02-05",
+        "range": false
+      },
+      {
+        "week": "2026-01-22",
+        "from": "2026-01-22",
+        "to": "2026-01-29",
+        "range": false
+      },
+      {
+        "week": "2026-01-15",
+        "from": "2026-01-15",
+        "to": "2026-01-22",
+        "range": false
+      },
+      {
+        "week": "2026-01-08",
+        "from": "2026-01-08",
+        "to": "2026-01-15",
+        "range": false
+      },
+      {
+        "week": "2026-01-01",
+        "from": "2026-01-01",
+        "to": "2026-01-08",
+        "range": false
+      },
+      {
+        "week": "2025-12-25",
+        "from": "2025-12-25",
+        "to": "2026-01-01",
+        "range": false
+      },
+      {
+        "week": "2025-12-18",
+        "from": "2025-12-18",
+        "to": "2025-12-25",
+        "range": false
+      },
+      {
+        "week": "2025-12-11",
+        "from": "2025-12-11",
+        "to": "2025-12-18",
+        "range": false
+      },
+      {
+        "week": "2025-12-04",
+        "from": "2025-12-04",
+        "to": "2025-12-11",
+        "range": false
+      },
+      {
+        "week": "2025-11-27",
+        "from": "2025-11-27",
+        "to": "2025-12-04",
+        "range": false
+      },
+      {
+        "week": "2025-11-20",
+        "from": "2025-11-20",
+        "to": "2025-11-27",
+        "range": false
+      },
+      {
+        "week": "2025-11-13",
+        "from": "2025-11-13",
+        "to": "2025-11-20",
+        "range": false
+      },
+      {
+        "week": "2025-11-06",
+        "from": "2025-11-06",
+        "to": "2025-11-13",
+        "range": false
+      },
+      {
+        "week": "2025-10-30",
+        "from": "2025-10-30",
+        "to": "2025-11-06",
+        "range": false
+      },
+      {
+        "week": "2025-10-23",
+        "from": "2025-10-23",
+        "to": "2025-10-30",
+        "range": false
+      },
+      {
+        "week": "2025-10-16",
+        "from": "2025-10-16",
+        "to": "2025-10-23",
+        "range": false
+      },
+      {
+        "week": "2025-10-09",
+        "from": "2025-10-09",
+        "to": "2025-10-16",
+        "range": false
+      },
+      {
+        "week": "2025-10-02",
+        "from": "2025-10-02",
+        "to": "2025-10-09",
+        "range": false
+      },
+      {
+        "week": "2025-09-25",
+        "from": "2025-09-25",
+        "to": "2025-10-02",
+        "range": false
+      },
+      {
+        "week": "2025-09-18",
+        "from": "2025-09-18",
+        "to": "2025-09-25",
+        "range": false
+      },
+      {
+        "week": "2025-09-11",
+        "from": "2025-09-11",
+        "to": "2025-09-18",
+        "range": false
+      },
+      {
+        "week": "2025-09-04",
+        "from": "2025-09-04",
+        "to": "2025-09-11",
+        "range": false
+      },
+      {
+        "week": "2025-08-28",
+        "from": "2025-08-28",
+        "to": "2025-09-04",
+        "range": false
+      },
+      {
+        "week": "2025-08-21",
+        "from": "2025-08-21",
+        "to": "2025-08-28",
+        "range": false
+      },
+      {
+        "week": "2025-08-14",
+        "from": "2025-08-14",
+        "to": "2025-08-21",
+        "range": false
+      }
+    ],
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 1,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Туда",
+          "active": false
+        },
+        {
+          "url": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&order=38&boss=1&parsings=70",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": null,
+          "label": "Сюда &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://sirus.su/api/base/x1/leaderboard/pve",
+      "per_page": 50,
+      "to": 23,
+      "total": 23
+    }
+  },
+  "four_weeks_70": {
+    "request_url": "https://sirus.su/api/base/x1/leaderboard/pve?ladder=specializations&type=dps&aggregation=avg&week=last_four_weeks&order=38&boss=1&parsings=70&perPage=50&page=1",
+    "returned_first_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+    "returned_last_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+    "row_count": 0,
+    "min_datetime": null,
+    "max_datetime": null,
+    "frost_row": null,
+    "weeks": [
+      {
+        "week": "current",
+        "from": "2026-08-13",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "previous",
+        "from": "2026-08-06",
+        "to": "2026-08-13",
+        "range": false
+      },
+      {
+        "week": "last_two_weeks",
+        "from": "2026-07-30",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "last_four_weeks",
+        "from": "2026-07-16",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "2026-07-30",
+        "from": "2026-07-30",
+        "to": "2026-08-06",
+        "range": false
+      },
+      {
+        "week": "2026-07-23",
+        "from": "2026-07-23",
+        "to": "2026-07-30",
+        "range": false
+      },
+      {
+        "week": "2026-07-16",
+        "from": "2026-07-16",
+        "to": "2026-07-23",
+        "range": false
+      },
+      {
+        "week": "2026-07-09",
+        "from": "2026-07-09",
+        "to": "2026-07-16",
+        "range": false
+      },
+      {
+        "week": "2026-07-02",
+        "from": "2026-07-02",
+        "to": "2026-07-09",
+        "range": false
+      },
+      {
+        "week": "2026-06-25",
+        "from": "2026-06-25",
+        "to": "2026-07-02",
+        "range": false
+      },
+      {
+        "week": "2026-06-18",
+        "from": "2026-06-18",
+        "to": "2026-06-25",
+        "range": false
+      },
+      {
+        "week": "2026-06-11",
+        "from": "2026-06-11",
+        "to": "2026-06-18",
+        "range": false
+      },
+      {
+        "week": "2026-06-04",
+        "from": "2026-06-04",
+        "to": "2026-06-11",
+        "range": false
+      },
+      {
+        "week": "2026-05-28",
+        "from": "2026-05-28",
+        "to": "2026-06-04",
+        "range": false
+      },
+      {
+        "week": "2026-05-21",
+        "from": "2026-05-21",
+        "to": "2026-05-28",
+        "range": false
+      },
+      {
+        "week": "2026-05-14",
+        "from": "2026-05-14",
+        "to": "2026-05-21",
+        "range": false
+      },
+      {
+        "week": "2026-05-07",
+        "from": "2026-05-07",
+        "to": "2026-05-14",
+        "range": false
+      },
+      {
+        "week": "2026-04-30",
+        "from": "2026-04-30",
+        "to": "2026-05-07",
+        "range": false
+      },
+      {
+        "week": "2026-04-23",
+        "from": "2026-04-23",
+        "to": "2026-04-30",
+        "range": false
+      },
+      {
+        "week": "2026-04-16",
+        "from": "2026-04-16",
+        "to": "2026-04-23",
+        "range": false
+      },
+      {
+        "week": "2026-04-09",
+        "from": "2026-04-09",
+        "to": "2026-04-16",
+        "range": false
+      },
+      {
+        "week": "2026-04-02",
+        "from": "2026-04-02",
+        "to": "2026-04-09",
+        "range": false
+      },
+      {
+        "week": "2026-03-26",
+        "from": "2026-03-26",
+        "to": "2026-04-02",
+        "range": false
+      },
+      {
+        "week": "2026-03-19",
+        "from": "2026-03-19",
+        "to": "2026-03-26",
+        "range": false
+      },
+      {
+        "week": "2026-03-12",
+        "from": "2026-03-12",
+        "to": "2026-03-19",
+        "range": false
+      },
+      {
+        "week": "2026-03-05",
+        "from": "2026-03-05",
+        "to": "2026-03-12",
+        "range": false
+      },
+      {
+        "week": "2026-02-26",
+        "from": "2026-02-26",
+        "to": "2026-03-05",
+        "range": false
+      },
+      {
+        "week": "2026-02-19",
+        "from": "2026-02-19",
+        "to": "2026-02-26",
+        "range": false
+      },
+      {
+        "week": "2026-02-12",
+        "from": "2026-02-12",
+        "to": "2026-02-19",
+        "range": false
+      },
+      {
+        "week": "2026-02-05",
+        "from": "2026-02-05",
+        "to": "2026-02-12",
+        "range": false
+      },
+      {
+        "week": "2026-01-29",
+        "from": "2026-01-29",
+        "to": "2026-02-05",
+        "range": false
+      },
+      {
+        "week": "2026-01-22",
+        "from": "2026-01-22",
+        "to": "2026-01-29",
+        "range": false
+      },
+      {
+        "week": "2026-01-15",
+        "from": "2026-01-15",
+        "to": "2026-01-22",
+        "range": false
+      },
+      {
+        "week": "2026-01-08",
+        "from": "2026-01-08",
+        "to": "2026-01-15",
+        "range": false
+      },
+      {
+        "week": "2026-01-01",
+        "from": "2026-01-01",
+        "to": "2026-01-08",
+        "range": false
+      },
+      {
+        "week": "2025-12-25",
+        "from": "2025-12-25",
+        "to": "2026-01-01",
+        "range": false
+      },
+      {
+        "week": "2025-12-18",
+        "from": "2025-12-18",
+        "to": "2025-12-25",
+        "range": false
+      },
+      {
+        "week": "2025-12-11",
+        "from": "2025-12-11",
+        "to": "2025-12-18",
+        "range": false
+      },
+      {
+        "week": "2025-12-04",
+        "from": "2025-12-04",
+        "to": "2025-12-11",
+        "range": false
+      },
+      {
+        "week": "2025-11-27",
+        "from": "2025-11-27",
+        "to": "2025-12-04",
+        "range": false
+      },
+      {
+        "week": "2025-11-20",
+        "from": "2025-11-20",
+        "to": "2025-11-27",
+        "range": false
+      },
+      {
+        "week": "2025-11-13",
+        "from": "2025-11-13",
+        "to": "2025-11-20",
+        "range": false
+      },
+      {
+        "week": "2025-11-06",
+        "from": "2025-11-06",
+        "to": "2025-11-13",
+        "range": false
+      },
+      {
+        "week": "2025-10-30",
+        "from": "2025-10-30",
+        "to": "2025-11-06",
+        "range": false
+      },
+      {
+        "week": "2025-10-23",
+        "from": "2025-10-23",
+        "to": "2025-10-30",
+        "range": false
+      },
+      {
+        "week": "2025-10-16",
+        "from": "2025-10-16",
+        "to": "2025-10-23",
+        "range": false
+      },
+      {
+        "week": "2025-10-09",
+        "from": "2025-10-09",
+        "to": "2025-10-16",
+        "range": false
+      },
+      {
+        "week": "2025-10-02",
+        "from": "2025-10-02",
+        "to": "2025-10-09",
+        "range": false
+      },
+      {
+        "week": "2025-09-25",
+        "from": "2025-09-25",
+        "to": "2025-10-02",
+        "range": false
+      },
+      {
+        "week": "2025-09-18",
+        "from": "2025-09-18",
+        "to": "2025-09-25",
+        "range": false
+      },
+      {
+        "week": "2025-09-11",
+        "from": "2025-09-11",
+        "to": "2025-09-18",
+        "range": false
+      },
+      {
+        "week": "2025-09-04",
+        "from": "2025-09-04",
+        "to": "2025-09-11",
+        "range": false
+      },
+      {
+        "week": "2025-08-28",
+        "from": "2025-08-28",
+        "to": "2025-09-04",
+        "range": false
+      },
+      {
+        "week": "2025-08-21",
+        "from": "2025-08-21",
+        "to": "2025-08-28",
+        "range": false
+      },
+      {
+        "week": "2025-08-14",
+        "from": "2025-08-14",
+        "to": "2025-08-21",
+        "range": false
+      }
+    ],
+    "meta": {
+      "current_page": 1,
+      "from": null,
+      "last_page": 1,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Туда",
+          "active": false
+        },
+        {
+          "url": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": null,
+          "label": "Сюда &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://sirus.su/api/base/x1/leaderboard/pve",
+      "per_page": 50,
+      "to": null,
+      "total": 0
+    }
+  },
+  "four_weeks_40": {
+    "request_url": "https://sirus.su/api/base/x1/leaderboard/pve?ladder=specializations&type=dps&aggregation=avg&week=last_four_weeks&order=38&boss=1&parsings=40&perPage=50&page=1",
+    "returned_first_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=40",
+    "returned_last_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=40",
+    "row_count": 0,
+    "min_datetime": null,
+    "max_datetime": null,
+    "frost_row": null,
+    "weeks": [
+      {
+        "week": "current",
+        "from": "2026-08-13",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "previous",
+        "from": "2026-08-06",
+        "to": "2026-08-13",
+        "range": false
+      },
+      {
+        "week": "last_two_weeks",
+        "from": "2026-07-30",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "last_four_weeks",
+        "from": "2026-07-16",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "2026-07-30",
+        "from": "2026-07-30",
+        "to": "2026-08-06",
+        "range": false
+      },
+      {
+        "week": "2026-07-23",
+        "from": "2026-07-23",
+        "to": "2026-07-30",
+        "range": false
+      },
+      {
+        "week": "2026-07-16",
+        "from": "2026-07-16",
+        "to": "2026-07-23",
+        "range": false
+      },
+      {
+        "week": "2026-07-09",
+        "from": "2026-07-09",
+        "to": "2026-07-16",
+        "range": false
+      },
+      {
+        "week": "2026-07-02",
+        "from": "2026-07-02",
+        "to": "2026-07-09",
+        "range": false
+      },
+      {
+        "week": "2026-06-25",
+        "from": "2026-06-25",
+        "to": "2026-07-02",
+        "range": false
+      },
+      {
+        "week": "2026-06-18",
+        "from": "2026-06-18",
+        "to": "2026-06-25",
+        "range": false
+      },
+      {
+        "week": "2026-06-11",
+        "from": "2026-06-11",
+        "to": "2026-06-18",
+        "range": false
+      },
+      {
+        "week": "2026-06-04",
+        "from": "2026-06-04",
+        "to": "2026-06-11",
+        "range": false
+      },
+      {
+        "week": "2026-05-28",
+        "from": "2026-05-28",
+        "to": "2026-06-04",
+        "range": false
+      },
+      {
+        "week": "2026-05-21",
+        "from": "2026-05-21",
+        "to": "2026-05-28",
+        "range": false
+      },
+      {
+        "week": "2026-05-14",
+        "from": "2026-05-14",
+        "to": "2026-05-21",
+        "range": false
+      },
+      {
+        "week": "2026-05-07",
+        "from": "2026-05-07",
+        "to": "2026-05-14",
+        "range": false
+      },
+      {
+        "week": "2026-04-30",
+        "from": "2026-04-30",
+        "to": "2026-05-07",
+        "range": false
+      },
+      {
+        "week": "2026-04-23",
+        "from": "2026-04-23",
+        "to": "2026-04-30",
+        "range": false
+      },
+      {
+        "week": "2026-04-16",
+        "from": "2026-04-16",
+        "to": "2026-04-23",
+        "range": false
+      },
+      {
+        "week": "2026-04-09",
+        "from": "2026-04-09",
+        "to": "2026-04-16",
+        "range": false
+      },
+      {
+        "week": "2026-04-02",
+        "from": "2026-04-02",
+        "to": "2026-04-09",
+        "range": false
+      },
+      {
+        "week": "2026-03-26",
+        "from": "2026-03-26",
+        "to": "2026-04-02",
+        "range": false
+      },
+      {
+        "week": "2026-03-19",
+        "from": "2026-03-19",
+        "to": "2026-03-26",
+        "range": false
+      },
+      {
+        "week": "2026-03-12",
+        "from": "2026-03-12",
+        "to": "2026-03-19",
+        "range": false
+      },
+      {
+        "week": "2026-03-05",
+        "from": "2026-03-05",
+        "to": "2026-03-12",
+        "range": false
+      },
+      {
+        "week": "2026-02-26",
+        "from": "2026-02-26",
+        "to": "2026-03-05",
+        "range": false
+      },
+      {
+        "week": "2026-02-19",
+        "from": "2026-02-19",
+        "to": "2026-02-26",
+        "range": false
+      },
+      {
+        "week": "2026-02-12",
+        "from": "2026-02-12",
+        "to": "2026-02-19",
+        "range": false
+      },
+      {
+        "week": "2026-02-05",
+        "from": "2026-02-05",
+        "to": "2026-02-12",
+        "range": false
+      },
+      {
+        "week": "2026-01-29",
+        "from": "2026-01-29",
+        "to": "2026-02-05",
+        "range": false
+      },
+      {
+        "week": "2026-01-22",
+        "from": "2026-01-22",
+        "to": "2026-01-29",
+        "range": false
+      },
+      {
+        "week": "2026-01-15",
+        "from": "2026-01-15",
+        "to": "2026-01-22",
+        "range": false
+      },
+      {
+        "week": "2026-01-08",
+        "from": "2026-01-08",
+        "to": "2026-01-15",
+        "range": false
+      },
+      {
+        "week": "2026-01-01",
+        "from": "2026-01-01",
+        "to": "2026-01-08",
+        "range": false
+      },
+      {
+        "week": "2025-12-25",
+        "from": "2025-12-25",
+        "to": "2026-01-01",
+        "range": false
+      },
+      {
+        "week": "2025-12-18",
+        "from": "2025-12-18",
+        "to": "2025-12-25",
+        "range": false
+      },
+      {
+        "week": "2025-12-11",
+        "from": "2025-12-11",
+        "to": "2025-12-18",
+        "range": false
+      },
+      {
+        "week": "2025-12-04",
+        "from": "2025-12-04",
+        "to": "2025-12-11",
+        "range": false
+      },
+      {
+        "week": "2025-11-27",
+        "from": "2025-11-27",
+        "to": "2025-12-04",
+        "range": false
+      },
+      {
+        "week": "2025-11-20",
+        "from": "2025-11-20",
+        "to": "2025-11-27",
+        "range": false
+      },
+      {
+        "week": "2025-11-13",
+        "from": "2025-11-13",
+        "to": "2025-11-20",
+        "range": false
+      },
+      {
+        "week": "2025-11-06",
+        "from": "2025-11-06",
+        "to": "2025-11-13",
+        "range": false
+      },
+      {
+        "week": "2025-10-30",
+        "from": "2025-10-30",
+        "to": "2025-11-06",
+        "range": false
+      },
+      {
+        "week": "2025-10-23",
+        "from": "2025-10-23",
+        "to": "2025-10-30",
+        "range": false
+      },
+      {
+        "week": "2025-10-16",
+        "from": "2025-10-16",
+        "to": "2025-10-23",
+        "range": false
+      },
+      {
+        "week": "2025-10-09",
+        "from": "2025-10-09",
+        "to": "2025-10-16",
+        "range": false
+      },
+      {
+        "week": "2025-10-02",
+        "from": "2025-10-02",
+        "to": "2025-10-09",
+        "range": false
+      },
+      {
+        "week": "2025-09-25",
+        "from": "2025-09-25",
+        "to": "2025-10-02",
+        "range": false
+      },
+      {
+        "week": "2025-09-18",
+        "from": "2025-09-18",
+        "to": "2025-09-25",
+        "range": false
+      },
+      {
+        "week": "2025-09-11",
+        "from": "2025-09-11",
+        "to": "2025-09-18",
+        "range": false
+      },
+      {
+        "week": "2025-09-04",
+        "from": "2025-09-04",
+        "to": "2025-09-11",
+        "range": false
+      },
+      {
+        "week": "2025-08-28",
+        "from": "2025-08-28",
+        "to": "2025-09-04",
+        "range": false
+      },
+      {
+        "week": "2025-08-21",
+        "from": "2025-08-21",
+        "to": "2025-08-28",
+        "range": false
+      },
+      {
+        "week": "2025-08-14",
+        "from": "2025-08-14",
+        "to": "2025-08-21",
+        "range": false
+      }
+    ],
+    "meta": {
+      "current_page": 1,
+      "from": null,
+      "last_page": 1,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Туда",
+          "active": false
+        },
+        {
+          "url": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=40",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": null,
+          "label": "Сюда &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://sirus.su/api/base/x1/leaderboard/pve",
+      "per_page": 50,
+      "to": null,
+      "total": 0
+    }
+  },
+  "two_weeks_40": {
+    "request_url": "https://sirus.su/api/base/x1/leaderboard/pve?ladder=specializations&type=dps&aggregation=avg&week=last_two_weeks&order=38&boss=1&parsings=40&perPage=50&page=1",
+    "returned_first_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=40",
+    "returned_last_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=40",
+    "row_count": 0,
+    "min_datetime": null,
+    "max_datetime": null,
+    "frost_row": null,
+    "weeks": [
+      {
+        "week": "current",
+        "from": "2026-08-13",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "previous",
+        "from": "2026-08-06",
+        "to": "2026-08-13",
+        "range": false
+      },
+      {
+        "week": "last_two_weeks",
+        "from": "2026-07-30",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "last_four_weeks",
+        "from": "2026-07-16",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "2026-07-30",
+        "from": "2026-07-30",
+        "to": "2026-08-06",
+        "range": false
+      },
+      {
+        "week": "2026-07-23",
+        "from": "2026-07-23",
+        "to": "2026-07-30",
+        "range": false
+      },
+      {
+        "week": "2026-07-16",
+        "from": "2026-07-16",
+        "to": "2026-07-23",
+        "range": false
+      },
+      {
+        "week": "2026-07-09",
+        "from": "2026-07-09",
+        "to": "2026-07-16",
+        "range": false
+      },
+      {
+        "week": "2026-07-02",
+        "from": "2026-07-02",
+        "to": "2026-07-09",
+        "range": false
+      },
+      {
+        "week": "2026-06-25",
+        "from": "2026-06-25",
+        "to": "2026-07-02",
+        "range": false
+      },
+      {
+        "week": "2026-06-18",
+        "from": "2026-06-18",
+        "to": "2026-06-25",
+        "range": false
+      },
+      {
+        "week": "2026-06-11",
+        "from": "2026-06-11",
+        "to": "2026-06-18",
+        "range": false
+      },
+      {
+        "week": "2026-06-04",
+        "from": "2026-06-04",
+        "to": "2026-06-11",
+        "range": false
+      },
+      {
+        "week": "2026-05-28",
+        "from": "2026-05-28",
+        "to": "2026-06-04",
+        "range": false
+      },
+      {
+        "week": "2026-05-21",
+        "from": "2026-05-21",
+        "to": "2026-05-28",
+        "range": false
+      },
+      {
+        "week": "2026-05-14",
+        "from": "2026-05-14",
+        "to": "2026-05-21",
+        "range": false
+      },
+      {
+        "week": "2026-05-07",
+        "from": "2026-05-07",
+        "to": "2026-05-14",
+        "range": false
+      },
+      {
+        "week": "2026-04-30",
+        "from": "2026-04-30",
+        "to": "2026-05-07",
+        "range": false
+      },
+      {
+        "week": "2026-04-23",
+        "from": "2026-04-23",
+        "to": "2026-04-30",
+        "range": false
+      },
+      {
+        "week": "2026-04-16",
+        "from": "2026-04-16",
+        "to": "2026-04-23",
+        "range": false
+      },
+      {
+        "week": "2026-04-09",
+        "from": "2026-04-09",
+        "to": "2026-04-16",
+        "range": false
+      },
+      {
+        "week": "2026-04-02",
+        "from": "2026-04-02",
+        "to": "2026-04-09",
+        "range": false
+      },
+      {
+        "week": "2026-03-26",
+        "from": "2026-03-26",
+        "to": "2026-04-02",
+        "range": false
+      },
+      {
+        "week": "2026-03-19",
+        "from": "2026-03-19",
+        "to": "2026-03-26",
+        "range": false
+      },
+      {
+        "week": "2026-03-12",
+        "from": "2026-03-12",
+        "to": "2026-03-19",
+        "range": false
+      },
+      {
+        "week": "2026-03-05",
+        "from": "2026-03-05",
+        "to": "2026-03-12",
+        "range": false
+      },
+      {
+        "week": "2026-02-26",
+        "from": "2026-02-26",
+        "to": "2026-03-05",
+        "range": false
+      },
+      {
+        "week": "2026-02-19",
+        "from": "2026-02-19",
+        "to": "2026-02-26",
+        "range": false
+      },
+      {
+        "week": "2026-02-12",
+        "from": "2026-02-12",
+        "to": "2026-02-19",
+        "range": false
+      },
+      {
+        "week": "2026-02-05",
+        "from": "2026-02-05",
+        "to": "2026-02-12",
+        "range": false
+      },
+      {
+        "week": "2026-01-29",
+        "from": "2026-01-29",
+        "to": "2026-02-05",
+        "range": false
+      },
+      {
+        "week": "2026-01-22",
+        "from": "2026-01-22",
+        "to": "2026-01-29",
+        "range": false
+      },
+      {
+        "week": "2026-01-15",
+        "from": "2026-01-15",
+        "to": "2026-01-22",
+        "range": false
+      },
+      {
+        "week": "2026-01-08",
+        "from": "2026-01-08",
+        "to": "2026-01-15",
+        "range": false
+      },
+      {
+        "week": "2026-01-01",
+        "from": "2026-01-01",
+        "to": "2026-01-08",
+        "range": false
+      },
+      {
+        "week": "2025-12-25",
+        "from": "2025-12-25",
+        "to": "2026-01-01",
+        "range": false
+      },
+      {
+        "week": "2025-12-18",
+        "from": "2025-12-18",
+        "to": "2025-12-25",
+        "range": false
+      },
+      {
+        "week": "2025-12-11",
+        "from": "2025-12-11",
+        "to": "2025-12-18",
+        "range": false
+      },
+      {
+        "week": "2025-12-04",
+        "from": "2025-12-04",
+        "to": "2025-12-11",
+        "range": false
+      },
+      {
+        "week": "2025-11-27",
+        "from": "2025-11-27",
+        "to": "2025-12-04",
+        "range": false
+      },
+      {
+        "week": "2025-11-20",
+        "from": "2025-11-20",
+        "to": "2025-11-27",
+        "range": false
+      },
+      {
+        "week": "2025-11-13",
+        "from": "2025-11-13",
+        "to": "2025-11-20",
+        "range": false
+      },
+      {
+        "week": "2025-11-06",
+        "from": "2025-11-06",
+        "to": "2025-11-13",
+        "range": false
+      },
+      {
+        "week": "2025-10-30",
+        "from": "2025-10-30",
+        "to": "2025-11-06",
+        "range": false
+      },
+      {
+        "week": "2025-10-23",
+        "from": "2025-10-23",
+        "to": "2025-10-30",
+        "range": false
+      },
+      {
+        "week": "2025-10-16",
+        "from": "2025-10-16",
+        "to": "2025-10-23",
+        "range": false
+      },
+      {
+        "week": "2025-10-09",
+        "from": "2025-10-09",
+        "to": "2025-10-16",
+        "range": false
+      },
+      {
+        "week": "2025-10-02",
+        "from": "2025-10-02",
+        "to": "2025-10-09",
+        "range": false
+      },
+      {
+        "week": "2025-09-25",
+        "from": "2025-09-25",
+        "to": "2025-10-02",
+        "range": false
+      },
+      {
+        "week": "2025-09-18",
+        "from": "2025-09-18",
+        "to": "2025-09-25",
+        "range": false
+      },
+      {
+        "week": "2025-09-11",
+        "from": "2025-09-11",
+        "to": "2025-09-18",
+        "range": false
+      },
+      {
+        "week": "2025-09-04",
+        "from": "2025-09-04",
+        "to": "2025-09-11",
+        "range": false
+      },
+      {
+        "week": "2025-08-28",
+        "from": "2025-08-28",
+        "to": "2025-09-04",
+        "range": false
+      },
+      {
+        "week": "2025-08-21",
+        "from": "2025-08-21",
+        "to": "2025-08-28",
+        "range": false
+      },
+      {
+        "week": "2025-08-14",
+        "from": "2025-08-14",
+        "to": "2025-08-21",
+        "range": false
+      }
+    ],
+    "meta": {
+      "current_page": 1,
+      "from": null,
+      "last_page": 1,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Туда",
+          "active": false
+        },
+        {
+          "url": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=40",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": null,
+          "label": "Сюда &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://sirus.su/api/base/x1/leaderboard/pve",
+      "per_page": 50,
+      "to": null,
+      "total": 0
+    }
+  },
+  "two_weeks_70": {
+    "request_url": "https://sirus.su/api/base/x1/leaderboard/pve?ladder=specializations&type=dps&aggregation=avg&week=last_two_weeks&order=38&boss=1&parsings=70&perPage=50&page=1",
+    "returned_first_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+    "returned_last_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+    "row_count": 0,
+    "min_datetime": null,
+    "max_datetime": null,
+    "frost_row": null,
+    "weeks": [
+      {
+        "week": "current",
+        "from": "2026-08-13",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "previous",
+        "from": "2026-08-06",
+        "to": "2026-08-13",
+        "range": false
+      },
+      {
+        "week": "last_two_weeks",
+        "from": "2026-07-30",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "last_four_weeks",
+        "from": "2026-07-16",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "2026-07-30",
+        "from": "2026-07-30",
+        "to": "2026-08-06",
+        "range": false
+      },
+      {
+        "week": "2026-07-23",
+        "from": "2026-07-23",
+        "to": "2026-07-30",
+        "range": false
+      },
+      {
+        "week": "2026-07-16",
+        "from": "2026-07-16",
+        "to": "2026-07-23",
+        "range": false
+      },
+      {
+        "week": "2026-07-09",
+        "from": "2026-07-09",
+        "to": "2026-07-16",
+        "range": false
+      },
+      {
+        "week": "2026-07-02",
+        "from": "2026-07-02",
+        "to": "2026-07-09",
+        "range": false
+      },
+      {
+        "week": "2026-06-25",
+        "from": "2026-06-25",
+        "to": "2026-07-02",
+        "range": false
+      },
+      {
+        "week": "2026-06-18",
+        "from": "2026-06-18",
+        "to": "2026-06-25",
+        "range": false
+      },
+      {
+        "week": "2026-06-11",
+        "from": "2026-06-11",
+        "to": "2026-06-18",
+        "range": false
+      },
+      {
+        "week": "2026-06-04",
+        "from": "2026-06-04",
+        "to": "2026-06-11",
+        "range": false
+      },
+      {
+        "week": "2026-05-28",
+        "from": "2026-05-28",
+        "to": "2026-06-04",
+        "range": false
+      },
+      {
+        "week": "2026-05-21",
+        "from": "2026-05-21",
+        "to": "2026-05-28",
+        "range": false
+      },
+      {
+        "week": "2026-05-14",
+        "from": "2026-05-14",
+        "to": "2026-05-21",
+        "range": false
+      },
+      {
+        "week": "2026-05-07",
+        "from": "2026-05-07",
+        "to": "2026-05-14",
+        "range": false
+      },
+      {
+        "week": "2026-04-30",
+        "from": "2026-04-30",
+        "to": "2026-05-07",
+        "range": false
+      },
+      {
+        "week": "2026-04-23",
+        "from": "2026-04-23",
+        "to": "2026-04-30",
+        "range": false
+      },
+      {
+        "week": "2026-04-16",
+        "from": "2026-04-16",
+        "to": "2026-04-23",
+        "range": false
+      },
+      {
+        "week": "2026-04-09",
+        "from": "2026-04-09",
+        "to": "2026-04-16",
+        "range": false
+      },
+      {
+        "week": "2026-04-02",
+        "from": "2026-04-02",
+        "to": "2026-04-09",
+        "range": false
+      },
+      {
+        "week": "2026-03-26",
+        "from": "2026-03-26",
+        "to": "2026-04-02",
+        "range": false
+      },
+      {
+        "week": "2026-03-19",
+        "from": "2026-03-19",
+        "to": "2026-03-26",
+        "range": false
+      },
+      {
+        "week": "2026-03-12",
+        "from": "2026-03-12",
+        "to": "2026-03-19",
+        "range": false
+      },
+      {
+        "week": "2026-03-05",
+        "from": "2026-03-05",
+        "to": "2026-03-12",
+        "range": false
+      },
+      {
+        "week": "2026-02-26",
+        "from": "2026-02-26",
+        "to": "2026-03-05",
+        "range": false
+      },
+      {
+        "week": "2026-02-19",
+        "from": "2026-02-19",
+        "to": "2026-02-26",
+        "range": false
+      },
+      {
+        "week": "2026-02-12",
+        "from": "2026-02-12",
+        "to": "2026-02-19",
+        "range": false
+      },
+      {
+        "week": "2026-02-05",
+        "from": "2026-02-05",
+        "to": "2026-02-12",
+        "range": false
+      },
+      {
+        "week": "2026-01-29",
+        "from": "2026-01-29",
+        "to": "2026-02-05",
+        "range": false
+      },
+      {
+        "week": "2026-01-22",
+        "from": "2026-01-22",
+        "to": "2026-01-29",
+        "range": false
+      },
+      {
+        "week": "2026-01-15",
+        "from": "2026-01-15",
+        "to": "2026-01-22",
+        "range": false
+      },
+      {
+        "week": "2026-01-08",
+        "from": "2026-01-08",
+        "to": "2026-01-15",
+        "range": false
+      },
+      {
+        "week": "2026-01-01",
+        "from": "2026-01-01",
+        "to": "2026-01-08",
+        "range": false
+      },
+      {
+        "week": "2025-12-25",
+        "from": "2025-12-25",
+        "to": "2026-01-01",
+        "range": false
+      },
+      {
+        "week": "2025-12-18",
+        "from": "2025-12-18",
+        "to": "2025-12-25",
+        "range": false
+      },
+      {
+        "week": "2025-12-11",
+        "from": "2025-12-11",
+        "to": "2025-12-18",
+        "range": false
+      },
+      {
+        "week": "2025-12-04",
+        "from": "2025-12-04",
+        "to": "2025-12-11",
+        "range": false
+      },
+      {
+        "week": "2025-11-27",
+        "from": "2025-11-27",
+        "to": "2025-12-04",
+        "range": false
+      },
+      {
+        "week": "2025-11-20",
+        "from": "2025-11-20",
+        "to": "2025-11-27",
+        "range": false
+      },
+      {
+        "week": "2025-11-13",
+        "from": "2025-11-13",
+        "to": "2025-11-20",
+        "range": false
+      },
+      {
+        "week": "2025-11-06",
+        "from": "2025-11-06",
+        "to": "2025-11-13",
+        "range": false
+      },
+      {
+        "week": "2025-10-30",
+        "from": "2025-10-30",
+        "to": "2025-11-06",
+        "range": false
+      },
+      {
+        "week": "2025-10-23",
+        "from": "2025-10-23",
+        "to": "2025-10-30",
+        "range": false
+      },
+      {
+        "week": "2025-10-16",
+        "from": "2025-10-16",
+        "to": "2025-10-23",
+        "range": false
+      },
+      {
+        "week": "2025-10-09",
+        "from": "2025-10-09",
+        "to": "2025-10-16",
+        "range": false
+      },
+      {
+        "week": "2025-10-02",
+        "from": "2025-10-02",
+        "to": "2025-10-09",
+        "range": false
+      },
+      {
+        "week": "2025-09-25",
+        "from": "2025-09-25",
+        "to": "2025-10-02",
+        "range": false
+      },
+      {
+        "week": "2025-09-18",
+        "from": "2025-09-18",
+        "to": "2025-09-25",
+        "range": false
+      },
+      {
+        "week": "2025-09-11",
+        "from": "2025-09-11",
+        "to": "2025-09-18",
+        "range": false
+      },
+      {
+        "week": "2025-09-04",
+        "from": "2025-09-04",
+        "to": "2025-09-11",
+        "range": false
+      },
+      {
+        "week": "2025-08-28",
+        "from": "2025-08-28",
+        "to": "2025-09-04",
+        "range": false
+      },
+      {
+        "week": "2025-08-21",
+        "from": "2025-08-21",
+        "to": "2025-08-28",
+        "range": false
+      },
+      {
+        "week": "2025-08-14",
+        "from": "2025-08-14",
+        "to": "2025-08-21",
+        "range": false
+      }
+    ],
+    "meta": {
+      "current_page": 1,
+      "from": null,
+      "last_page": 1,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Туда",
+          "active": false
+        },
+        {
+          "url": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": null,
+          "label": "Сюда &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://sirus.su/api/base/x1/leaderboard/pve",
+      "per_page": 50,
+      "to": null,
+      "total": 0
+    }
+  },
+  "range_with_week": {
+    "request_url": "https://sirus.su/api/base/x1/leaderboard/pve?ladder=specializations&type=dps&aggregation=avg&week=range&week_from=2026-07-23&week_to=2026-08-18&order=38&boss=1&parsings=70&perPage=50&page=1",
+    "returned_first_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+    "returned_last_link": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+    "row_count": 23,
+    "min_datetime": null,
+    "max_datetime": null,
+    "frost_row": {
+      "ilvl": 278,
+      "class_id": 6,
+      "spec": 1,
+      "dps": 12676
+    },
+    "weeks": [
+      {
+        "week": "current",
+        "from": "2026-08-13",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "previous",
+        "from": "2026-08-06",
+        "to": "2026-08-13",
+        "range": false
+      },
+      {
+        "week": "last_two_weeks",
+        "from": "2026-07-30",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "last_four_weeks",
+        "from": "2026-07-16",
+        "to": "2026-08-19",
+        "range": false
+      },
+      {
+        "week": "2026-07-30",
+        "from": "2026-07-30",
+        "to": "2026-08-06",
+        "range": false
+      },
+      {
+        "week": "2026-07-23",
+        "from": "2026-07-23",
+        "to": "2026-07-30",
+        "range": false
+      },
+      {
+        "week": "2026-07-16",
+        "from": "2026-07-16",
+        "to": "2026-07-23",
+        "range": false
+      },
+      {
+        "week": "2026-07-09",
+        "from": "2026-07-09",
+        "to": "2026-07-16",
+        "range": false
+      },
+      {
+        "week": "2026-07-02",
+        "from": "2026-07-02",
+        "to": "2026-07-09",
+        "range": false
+      },
+      {
+        "week": "2026-06-25",
+        "from": "2026-06-25",
+        "to": "2026-07-02",
+        "range": false
+      },
+      {
+        "week": "2026-06-18",
+        "from": "2026-06-18",
+        "to": "2026-06-25",
+        "range": false
+      },
+      {
+        "week": "2026-06-11",
+        "from": "2026-06-11",
+        "to": "2026-06-18",
+        "range": false
+      },
+      {
+        "week": "2026-06-04",
+        "from": "2026-06-04",
+        "to": "2026-06-11",
+        "range": false
+      },
+      {
+        "week": "2026-05-28",
+        "from": "2026-05-28",
+        "to": "2026-06-04",
+        "range": false
+      },
+      {
+        "week": "2026-05-21",
+        "from": "2026-05-21",
+        "to": "2026-05-28",
+        "range": false
+      },
+      {
+        "week": "2026-05-14",
+        "from": "2026-05-14",
+        "to": "2026-05-21",
+        "range": false
+      },
+      {
+        "week": "2026-05-07",
+        "from": "2026-05-07",
+        "to": "2026-05-14",
+        "range": false
+      },
+      {
+        "week": "2026-04-30",
+        "from": "2026-04-30",
+        "to": "2026-05-07",
+        "range": false
+      },
+      {
+        "week": "2026-04-23",
+        "from": "2026-04-23",
+        "to": "2026-04-30",
+        "range": false
+      },
+      {
+        "week": "2026-04-16",
+        "from": "2026-04-16",
+        "to": "2026-04-23",
+        "range": false
+      },
+      {
+        "week": "2026-04-09",
+        "from": "2026-04-09",
+        "to": "2026-04-16",
+        "range": false
+      },
+      {
+        "week": "2026-04-02",
+        "from": "2026-04-02",
+        "to": "2026-04-09",
+        "range": false
+      },
+      {
+        "week": "2026-03-26",
+        "from": "2026-03-26",
+        "to": "2026-04-02",
+        "range": false
+      },
+      {
+        "week": "2026-03-19",
+        "from": "2026-03-19",
+        "to": "2026-03-26",
+        "range": false
+      },
+      {
+        "week": "2026-03-12",
+        "from": "2026-03-12",
+        "to": "2026-03-19",
+        "range": false
+      },
+      {
+        "week": "2026-03-05",
+        "from": "2026-03-05",
+        "to": "2026-03-12",
+        "range": false
+      },
+      {
+        "week": "2026-02-26",
+        "from": "2026-02-26",
+        "to": "2026-03-05",
+        "range": false
+      },
+      {
+        "week": "2026-02-19",
+        "from": "2026-02-19",
+        "to": "2026-02-26",
+        "range": false
+      },
+      {
+        "week": "2026-02-12",
+        "from": "2026-02-12",
+        "to": "2026-02-19",
+        "range": false
+      },
+      {
+        "week": "2026-02-05",
+        "from": "2026-02-05",
+        "to": "2026-02-12",
+        "range": false
+      },
+      {
+        "week": "2026-01-29",
+        "from": "2026-01-29",
+        "to": "2026-02-05",
+        "range": false
+      },
+      {
+        "week": "2026-01-22",
+        "from": "2026-01-22",
+        "to": "2026-01-29",
+        "range": false
+      },
+      {
+        "week": "2026-01-15",
+        "from": "2026-01-15",
+        "to": "2026-01-22",
+        "range": false
+      },
+      {
+        "week": "2026-01-08",
+        "from": "2026-01-08",
+        "to": "2026-01-15",
+        "range": false
+      },
+      {
+        "week": "2026-01-01",
+        "from": "2026-01-01",
+        "to": "2026-01-08",
+        "range": false
+      },
+      {
+        "week": "2025-12-25",
+        "from": "2025-12-25",
+        "to": "2026-01-01",
+        "range": false
+      },
+      {
+        "week": "2025-12-18",
+        "from": "2025-12-18",
+        "to": "2025-12-25",
+        "range": false
+      },
+      {
+        "week": "2025-12-11",
+        "from": "2025-12-11",
+        "to": "2025-12-18",
+        "range": false
+      },
+      {
+        "week": "2025-12-04",
+        "from": "2025-12-04",
+        "to": "2025-12-11",
+        "range": false
+      },
+      {
+        "week": "2025-11-27",
+        "from": "2025-11-27",
+        "to": "2025-12-04",
+        "range": false
+      },
+      {
+        "week": "2025-11-20",
+        "from": "2025-11-20",
+        "to": "2025-11-27",
+        "range": false
+      },
+      {
+        "week": "2025-11-13",
+        "from": "2025-11-13",
+        "to": "2025-11-20",
+        "range": false
+      },
+      {
+        "week": "2025-11-06",
+        "from": "2025-11-06",
+        "to": "2025-11-13",
+        "range": false
+      },
+      {
+        "week": "2025-10-30",
+        "from": "2025-10-30",
+        "to": "2025-11-06",
+        "range": false
+      },
+      {
+        "week": "2025-10-23",
+        "from": "2025-10-23",
+        "to": "2025-10-30",
+        "range": false
+      },
+      {
+        "week": "2025-10-16",
+        "from": "2025-10-16",
+        "to": "2025-10-23",
+        "range": false
+      },
+      {
+        "week": "2025-10-09",
+        "from": "2025-10-09",
+        "to": "2025-10-16",
+        "range": false
+      },
+      {
+        "week": "2025-10-02",
+        "from": "2025-10-02",
+        "to": "2025-10-09",
+        "range": false
+      },
+      {
+        "week": "2025-09-25",
+        "from": "2025-09-25",
+        "to": "2025-10-02",
+        "range": false
+      },
+      {
+        "week": "2025-09-18",
+        "from": "2025-09-18",
+        "to": "2025-09-25",
+        "range": false
+      },
+      {
+        "week": "2025-09-11",
+        "from": "2025-09-11",
+        "to": "2025-09-18",
+        "range": false
+      },
+      {
+        "week": "2025-09-04",
+        "from": "2025-09-04",
+        "to": "2025-09-11",
+        "range": false
+      },
+      {
+        "week": "2025-08-28",
+        "from": "2025-08-28",
+        "to": "2025-09-04",
+        "range": false
+      },
+      {
+        "week": "2025-08-21",
+        "from": "2025-08-21",
+        "to": "2025-08-28",
+        "range": false
+      },
+      {
+        "week": "2025-08-14",
+        "from": "2025-08-14",
+        "to": "2025-08-21",
+        "range": false
+      }
+    ],
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 1,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Туда",
+          "active": false
+        },
+        {
+          "url": "https://sirus.su/api/base/x1/leaderboard/pve?debug=0&page=1&perPage=50&ladder=specializations&type=dps&dps=1&hps=0&aggregation=avg&boss=1&parsings=70",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": null,
+          "label": "Сюда &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://sirus.su/api/base/x1/leaderboard/pve",
+      "per_page": 50,
+      "to": 23,
+      "total": 23
+    }
+  }
+}
