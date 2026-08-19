@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r tools/sirus_frost_analysis/requirements.txt
 
+      - name: Probe official Sirus period/parsing params
+        run: python tools/sirus_frost_analysis/probe_sirus.py
+
       - name: Fetch Sirus HM aggregate data
         env:
           SIRUS_WEEK_FROM: '2026-07-23'
@@ -47,6 +50,7 @@ jobs:
         run: |
           rm -rf analysis_output
           mkdir -p analysis_output/audit/raw_specializations
+          cp artifacts/sirus_frost/probe_results.json analysis_output/ 2>/dev/null || true
           cp artifacts/sirus_frost/frost_analysis.csv analysis_output/ 2>/dev/null || true
           cp artifacts/sirus_frost/spec_boss_medians.csv analysis_output/ 2>/dev/null || true
           cp artifacts/sirus_frost/manifest.json analysis_output/ 2>/dev/null || true
