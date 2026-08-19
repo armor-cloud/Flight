@@ -1,0 +1,17 @@
+{
+  "method": "For each boss/spec: fetch exact Sirus player fight rows, hard-filter map+difficulty+encounter, sort DPS descending, keep ceil(40%) best logs, median.",
+  "secondary": "Also compute top70 median for low-volume sensitivity check.",
+  "ilvl_filter": null,
+  "aggregation_request": "max",
+  "difficulty": 3,
+  "periods": {
+    "four_weeks": [
+      "2026-07-16",
+      "2026-08-19"
+    ],
+    "two_weeks": [
+      "2026-07-30",
+      "2026-08-19"
+    ]
+  }
+}
