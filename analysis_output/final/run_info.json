@@ -1,0 +1,86 @@
+{
+  "periods": {
+    "four_weeks_40": {
+      "week_from": "2026-07-16",
+      "week_to": "2026-08-19",
+      "parsings": 40
+    },
+    "two_weeks_40": {
+      "week_from": "2026-07-30",
+      "week_to": "2026-08-19",
+      "parsings": 40
+    }
+  },
+  "bosses": [
+    {
+      "order": 38,
+      "boss_id": 0,
+      "raid": "TK",
+      "boss": "Alar"
+    },
+    {
+      "order": 38,
+      "boss_id": 1,
+      "raid": "TK",
+      "boss": "Void Reaver"
+    },
+    {
+      "order": 38,
+      "boss_id": 2,
+      "raid": "TK",
+      "boss": "Solarian"
+    },
+    {
+      "order": 38,
+      "boss_id": 3,
+      "raid": "TK",
+      "boss": "Kaelthas"
+    },
+    {
+      "order": 39,
+      "boss_id": 0,
+      "raid": "SSC",
+      "boss": "Hydross"
+    },
+    {
+      "order": 39,
+      "boss_id": 1,
+      "raid": "SSC",
+      "boss": "Lurker"
+    },
+    {
+      "order": 39,
+      "boss_id": 2,
+      "raid": "SSC",
+      "boss": "Leotheras"
+    },
+    {
+      "order": 39,
+      "boss_id": 3,
+      "raid": "SSC",
+      "boss": "Karathress"
+    },
+    {
+      "order": 39,
+      "boss_id": 4,
+      "raid": "SSC",
+      "boss": "Morogrim"
+    },
+    {
+      "order": 39,
+      "boss_id": 5,
+      "raid": "SSC",
+      "boss": "Lady Vashj"
+    }
+  ],
+  "ilvl_filter": null,
+  "specializations_raid_param": "order",
+  "players_raid_param": "i",
+  "specializations_aggregation": "avg",
+  "players_proof_aggregation": "max",
+  "notes": [
+    "Specialization DPS is taken directly from official Sirus specialization endpoint with parsings=40.",
+    "Frost proof rows are separate player-ladder records and are not substituted for official specialization DPS.",
+    "No ilvl filter is applied."
+  ]
+}
